@@ -1,0 +1,111 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Authority—Establishing Organizational Relationships</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67694</md:content-id>
+  <md:title>Authority—Establishing Organizational Relationships</md:title>
+  <md:abstract/>
+  <md:uuid>f4b400c7-5072-45cc-895d-b04e9691f7e0</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm340791488" list-type="enumerated" start-value="4">
+<item>What tools do companies use to establish relationships within their organizations?</item>
+</list>
+<para id="fs-idm487269392">Once companies choose a method of departmentalization, they must then establish the relationships within that structure. In other words, the company must decide how many layers of management it needs and who will report to whom. The company must also decide how much control to invest in each of its managers and where in the organization decisions will be made and implemented.</para>
+<section id="fs-idm339318976">
+<title>Managerial Hierarchy</title>
+<para id="fs-idm340369568"><term>Managerial hierarchy</term> (also called the <emphasis effect="italics">management pyramid</emphasis>) is defined by the levels of management within an organization. Generally, the management structure has three levels: top, middle, and supervisory management. In a managerial hierarchy, each organizational unit is controlled and supervised by a manager in a higher unit. The person with the most formal authority is at the top of the hierarchy. The higher a manager, the more power they have. Thus, the amount of power decreases as you move down the management pyramid. At the same time, the number of employees increases as you move down the hierarchy.</para>
+<para id="fs-idm340503408">Not all companies today are using this traditional configuration. One company that has eliminated hierarchy altogether is <term class="no-emphasis">The Morning Star Company</term>, the largest tomato processor in the world. Based in Woodland, California, the company employs 600 permanent “colleagues” and an additional 4,000 workers during harvest season. Founder and sole owner Chris Rufer started the company and based its vision on the philosophy of self-management, in which professionals initiate communication and coordination of their activities with colleagues, customers, suppliers, and others, and take personal responsibility for helping the company achieve its corporate goals.<cite target-id="rfin-ch07_12"><note class="reference" display="inline" id="rfin-ch07_12">“Morning Star’s Success Story: No Bosses, No Titles, No Structural Hierarchy,” <emphasis effect="italics">Corporate Rebels,</emphasis> http://corporate-rebels.com, November 14, 2016.</note></cite></para>
+<para id="fs-idm353774256">An organization with a well-defined hierarchy has a clear <term>chain of command</term>, which is the line of authority that extends from one level of the organization to the next, from top to bottom, and makes clear who reports to whom. The chain of command is shown in the organization chart and can be traced from the CEO all the way down to the employees producing goods and services. Under the <emphasis effect="italics">unity of command</emphasis> principle, everyone reports to and gets instructions from only one boss. Unity of command guarantees that everyone will have a direct supervisor and will not be taking orders from a number of different supervisors. Unity of command and chain of command give everyone in the organization clear directions and help coordinate people doing different jobs.</para>
+<para id="fs-idm349429920">Matrix organizations automatically violate the unity of command principle because employees report to more than one boss, if only for the duration of a project. For example, <term class="no-emphasis">Unilever</term>, the consumer-products company that makes Dove soap, Ben &amp; Jerry’s ice cream, and Hellmann’s mayonnaise, used to have a matrix structure with one CEO for North America and another for Europe. But employees in divisions that operated in both locations were unsure about which CEO’s decisions took precedence. Today, the company uses a product departmentalization structure.<cite target-id="rfin-ch07_13"><note class="reference" display="inline" id="rfin-ch07_13">Justin Young, “Unilever’s Organizational Structure for Product Innovation,” <emphasis effect="italics">Panmore Institute,</emphasis> http://panmore.com, February 21, 2017; “Unilever UK Gets Its House in Order,” <emphasis effect="italics">Grocer,</emphasis> February 12, 2005; “From Rivalry to Mergers: Anglo-Dutch Companies,” <emphasis effect="italics">The Economist,</emphasis> February 12, 2005, p. 61.</note></cite> Companies like <term class="no-emphasis">Unilever</term> tend to abandon matrix structures because of problems associated with unclear or duplicate reporting relationships, in other words, with a lack of unity of command.</para>
+<para id="fs-idm353401280">Individuals who are part of the chain of command have authority over other persons in the organization. <term>Authority</term> is legitimate power, granted by the organization and acknowledged by employees, that allows an individual to request action and expect compliance. Exercising authority means making decisions and seeing that they are carried out. Most managers <emphasis effect="italics">delegate</emphasis>, or assign, some degree of authority and responsibility to others below them in the chain of command. The <term>delegation of authority</term> makes the employees accountable to their supervisor. <emphasis effect="italics">Accountability</emphasis> means responsibility for outcomes. Typically, authority and responsibility move downward through the organization as managers assign activities to, and share decision-making with, their subordinates. Accountability moves upward in the organization as managers in each successively higher level are held accountable for the actions of their subordinates.</para>
+</section>
+<section id="fs-idm329759984">
+<title>Span of Control</title>
+<para id="fs-idm354081360">Each firm must decide how many managers are needed at each level of the management hierarchy to effectively supervise the work performed within organizational units. A manager’s <term>span of control</term> (sometimes called <emphasis effect="italics">span of management</emphasis>) is the number of employees the manager directly supervises. It can be as narrow as two or three employees or as wide as 50 or more. In general, the larger the span of control, the more efficient the organization. As <emphasis effect="bold"><link target-id="fs-idm354199376" document=""/></emphasis> shows, however, both narrow and wide spans of control have benefits and drawbacks.</para>
+<table id="fs-idm354199376" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Narrow and Wide Spans of Control</entry>
+</row>
+<row>
+<entry/>
+<entry>Advantages</entry>
+<entry>Disadvantages</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Narrow span of control</emphasis></entry>
+<entry><list id="fs-idm297282864" list-type="bulleted">
+<item>This approach allows a high degree of control.</item>
+<item>Fewer subordinates may mean the manager is more familiar with each individual.</item>
+<item>Close supervision can provide immediate feedback.</item>
+</list></entry>
+<entry><list id="fs-idm339367696" list-type="bulleted">
+<item>More levels of management mean that it is more expensive.</item>
+<item>Decision-making is slower due to vertical layers.</item>
+<item>Top management are isolated.</item>
+<item>This approach discourages employee autonomy.</item>
+</list></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Wide span of control</emphasis></entry>
+<entry><list id="fs-idm321999488" list-type="bulleted">
+<item>Fewer levels of management means increased efficiency and reduced costs.</item>
+<item>Increased subordinate autonomy leads to quicker decision-making.</item>
+<item>This approach allows for greater organizational flexibility.</item>
+<item>This approach creates higher levels of job satisfaction due to employee empowerment.</item>
+</list></entry>
+<entry><list id="fs-idm353998096" list-type="bulleted">
+<item>This approach allows for less control.</item>
+<item>Managers may lack familiarity with their subordinates due to the large number.</item>
+<item>Managers can be spread so thin that they can’t provide necessary leadership or support.</item>
+<item>There may be a lack of coordination or synchronization.</item>
+</list></entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm351225232">If hundreds of employees perform the same job, one supervisor may be able to manage a very large number of employees. Such might be the case at a clothing plant, where hundreds of sewing machine operators work from identical patterns. But if employees perform complex and dissimilar tasks, a manager can effectively supervise only a much smaller number. For instance, a supervisor in the research and development area of a pharmaceutical company might oversee just a few research chemists due to the highly complex nature of their jobs.</para>
+<note id="fs-idm352046560" class="concept-check">
+<list id="fs-idm339206224" list-type="enumerated">
+<item>How does the chain of command clarify reporting relationships?</item>
+<item>What is the role of a staff position in a line-and-staff organization?</item>
+<item>What factors determine the optimal span of control?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm354088032" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm350846016" list-type="enumerated" start-value="4">
+<item>What tools do companies use to establish relationships within their organizations?</item>
+</list>
+<para id="fs-idm321508496">The managerial hierarchy (or the <emphasis effect="italics">management pyramid</emphasis>) comprises the levels of management within the organization, and the managerial span of control is the number of employees the manager directly supervises. In daily operations, individuals in line positions are directly involved in the processes used to create goods and services. Individuals in staff positions provide the administrative and support services that line employees need to achieve the firm’s goals. Line positions in organizations are typically in areas such as production, marketing, and finance. Staff positions are found in areas such as legal counseling, managerial consulting, public relations, and human resource management.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm353853184"><term>authority</term>
+<meaning id="fs-idm351832624">Legitimate power, granted by the organization and acknowledged by employees, that allows an individual to request action and expect compliance.</meaning>
+</definition>
+<definition id="fs-idm347396560"><term>chain of command</term>
+<meaning id="fs-idm321706736">The line of authority that extends from one level of an organization’s hierarchy to the next, from top to bottom, and makes clear who reports to whom.</meaning>
+</definition>
+<definition id="fs-idm336795408"><term>delegation of authority</term>
+<meaning id="fs-idm350883632">The assignment of some degree of authority and responsibility to persons lower in the chain of command.</meaning>
+</definition>
+<definition id="fs-idm353495904"><term>managerial hierarchy</term>
+<meaning id="fs-idm340848768">The levels of management within an organization; typically includes top, middle, and supervisory management.</meaning>
+</definition>
+<definition id="fs-idm352082720"><term>span of control</term>
+<meaning id="fs-idm351168800">The number of employees a manager directly supervises; also called span of management.</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,88 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Production and Operations Control</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67724</md:content-id>
+  <md:title>Production and Operations Control</md:title>
+  <md:abstract/>
+  <md:uuid>13f620b6-d2f4-4c33-8ad0-0a81e7b6b2e9</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm336832880" list-type="enumerated" start-value="5">
+<item>How do operations managers schedule and control production?</item>
+</list>
+<para id="fs-idm323712752">Every company needs to have systems in place to see that production and operations are carried out as planned and to correct errors when they are not. The coordination of materials, equipment, and human resources to achieve production and operating efficiencies is called <emphasis effect="italics">production control</emphasis>. Two of its key aspects are routing and scheduling.</para>
+<section id="fs-idm495348064">
+<title>Routing: Where to Next?</title>
+<para id="fs-idm319784592"><term>Routing</term> is the first step in production control. It sets out a work flow, the sequence of machines and operations through which a product or service progresses from start to finish. Routing depends on the type of goods being produced and the facility layout. Good routing procedures increase productivity and cut unnecessary costs.</para>
+<para id="fs-idm322702128">One useful tool for routing is <term>value-stream mapping</term>, whereby production managers “map” the flow from suppliers through the factory to customers. Simple icons represent the materials and information needed at various points in the flow. Value-stream mapping can help identify where bottlenecks may occur in the production process and is a valuable tool for visualizing how to improve production routing.</para>
+<para id="fs-idm347738528">Awning manufacturer <term class="no-emphasis">Rader Awning &amp; Upholstery</term> used value-stream mapping to automate some of its operations. With the assistance of <term class="no-emphasis">New Mexico Manufacturing Extension Partnership</term> (MEP), the company evaluated how orders were processed from sales to manufacturing over two days. With the implementation of the processes suggested by MEP, productivity improved by 20 percent per salesperson, production defects decreased by 15 percent, and installation corrections dropped by 25 percent.<cite target-id="rfin-ch10_8"><note class="reference" display="inline" id="rfin-ch10_8">Claudia Infante,“Value Stream Mapping Boosts Productivity for Awning Maker,” <emphasis effect="italics">Finance New Mexico,</emphasis> https://financenewmexico.org, October 9, 2016.</note></cite></para>
+</section>
+<section id="fs-idm343934032">
+<title>Scheduling: When Do We Do It?</title>
+<para id="fs-idm365021520">Closely related to routing is scheduling. <term>Scheduling</term> involves specifying and controlling the time required for each step in the production process. The operations manager prepares timetables showing the most efficient sequence of production and then tries to ensure that the necessary materials and labor are in the right place at the right time.</para>
+<para id="fs-idm353046400">Scheduling is important to both manufacturing and service firms. The production manager in a factory schedules material deliveries, work shifts, and production processes. Trucking companies schedule drivers, clerks, truck maintenance, and repairs in accordance with customer transportation needs. Scheduling at a college entails deciding when to offer which courses, in which classrooms, with which instructors. A museum must schedule special exhibits, ship works to be displayed, market its offerings, and conduct educational programs and tours. Scheduling can range from simple to complex. Giving numbers to customers waiting to be served in a bakery and making interview appointments with job applicants are examples of simple scheduling. Organizations that must produce large quantities of products or services or service a diverse customer base face more complex scheduling problems.</para>
+<para id="fs-idm348566560">Three common scheduling tools used for complex situations are Gantt charts, the critical path method, and PERT.</para>
+<section id="fs-idm588144576">
+<title>Tracking Progress with Gantt Charts</title>
+<para id="fs-idm324153728">Named after their originator, Henry Gantt, <term>Gantt charts</term> are bar graphs plotted on a time line that show the relationship between scheduled and actual production.</para>
+<para id="fs-idm364844272">In the example shown in <emphasis effect="bold"><link target-id="fs-idm358553920" document=""/></emphasis>, the left side of the chart lists the activities required to complete the job or project. Both the scheduled time and the actual time required for each activity are shown, so the manager can easily judge progress.</para>
+<para id="fs-idm357662640">Gantt charts are most helpful when only a few tasks are involved, when task times are relatively long (days or weeks rather than hours), and when job routes are short and simple. One of the biggest shortcomings of Gantt charts is that they are static. They also fail to show how tasks are related. These problems can be solved, however, by using two other scheduling techniques, the critical path method and PERT.</para>
+</section>
+<section id="fs-idm342618688"><title>The Big Picture: Critical Path Method and PERT</title><para id="fs-idm359541520">To control large projects, operations managers need to closely monitor resources, costs, quality, and budgets. They also must be able to see the “big picture”—the interrelationships of the many different tasks necessary to complete the project. Finally, they must be able to revise scheduling and divert resources quickly if any tasks fall behind schedule. The critical path method (CPM) and the program evaluation and review technique (PERT) are related project management tools that were developed in the 1950s to help managers accomplish this.</para>
+<para id="fs-idm330024576">In the <term>critical path method (CPM)</term>, the manager identifies all of the activities required to complete the project, the relationships between these activities, and the order in which they need to be completed. Then, the manager develops a diagram that uses arrows to show how the tasks are dependent on each other. The longest path through these linked activities is called the <term>critical path</term>. If the tasks on the critical path are not completed on time, the entire project will fall behind schedule.</para>
+<para id="fs-idm320888128">To better understand how CPM works, look at <emphasis effect="bold"><link target-id="fs-idm351179040" document=""/></emphasis>, which shows a CPM diagram for constructing a house. All of the tasks required to finish the house and an estimated time for each have been identified. The arrows indicate the links between the various steps and their required sequence. As you can see, most of the jobs to be done can’t be started until the house’s foundation and frame are completed. It will take five days to finish the foundation and another seven days to erect the house frame. The activities linked by brown arrows form the critical path for this project. It tells us that the fastest possible time the house can be built is 38 days, the total time needed for all of the critical path tasks. The noncritical path jobs, those connected with black arrows, can be delayed a bit or done early. Short delays in installing appliances or roofing won’t delay construction of the house because these activities don’t lie on the critical path.</para>
+<figure id="fs-idm358553920" class="scaled-down">
+<title>A Typical Gantt Chart</title>
+<media id="fs-idm348668512" alt="The chart is set up with rows of activities, and months, from left to right above the activities. From top to bottom, the activities are scheduling; and designing; and ordering; and delivering materials; and machining components; and assembling; and inspecting; and shipping. From left to right the months show September and October. The chart uses symbols. A star indicates the October 8th is the review date. Scheduling starts September 15th, and ends September 21st. Designing starts September 21st, and ends the 26th. The completed work bar shows this started a day early and ended a day late. Ordering starts September 22nd, and ends October 3rd. The completed work bar shows this started September 27, and finished October 4th. Delivering materials starts September 30th and ends October 11th. Complete work shows that this started the 5th and ended the 8th. Machining components shows up as time not available because of machine maintenance, material shortages, and so on.">
+<image mime-type="image/png" src="../../media/IntroBus-C10-M10-005.png"/></media>
+
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption></figure>
+<figure id="fs-idm351179040" class="scaled-down">
+<title>A CPM Network for Building a House</title>
+<media id="fs-idm353478016" alt="Critical path start, 5 days to foundation complete. From here, 7 days until frame is complete. Branches to 3 days, siding is complete. Other branch, 15 days until cabinet walls are complete. From here, 8 days until interior painting is complete. Next, 2 days until carpet installation complete. Last, 1 day until house is ready and clean. From frame complete, 8 days until plumbing is complete; and 5 days until electrical wiring complete. Both plumbing and wiring hook back into critical path at cabinets, with 0 days. From siding complete, 4 days until roofing is complete. From roofing, 6 days until exterior is complete. Then 0 days until house is ready. From cabinets and walls, 3 days for appliance installation complete. From here 0 days until carpet installation complete.">
+<image mime-type="image/png" src="../../media/IntroBus-C10-M10-006.png"/></media>
+
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption></figure><para id="fs-idm353634896">Like CPM, the <term>program evaluation and review technique (PERT)</term> helps managers identify critical tasks and assess how delays in certain activities will affect operations or production. In both methods, managers use diagrams to see how operations and production will flow. PERT differs from CPM in one important respect. CPM assumes that the amount of time needed to finish a task is known with certainty; therefore, the CPM diagram shows only one number for the time needed to complete each activity. In contrast, PERT assigns three time estimates for each activity: an optimistic time for completion, the most probable time, and a pessimistic time. These estimates allow managers to anticipate delays and potential problems and schedule accordingly.</para>
+<note id="fs-idm340678704" class="concept-check">
+<list id="fs-idm325525232" list-type="enumerated">
+<item>What is production control, and what are its key aspects?</item>
+<item>How can value-stream mapping improve routing efficiency?</item>
+<item>Identify and describe three commonly used scheduling tools.</item>
+</list>
+</note>
+</section></section>
+<section id="fs-idm353067824" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm590563888" list-type="enumerated" start-value="5">
+<item>How do operations managers schedule and control production?</item>
+</list>
+<para id="fs-idm358347376">Routing is the first step in scheduling and controlling production. Routing analyzes the steps needed in production and sets out a workflow, the sequence of machines and operations through which a product or service progresses from start to finish. Good routing increases productivity and can eliminate unnecessary cost. Scheduling involves specifying and controlling the time and resources required for each step in the production process. Operations managers use three methods to schedule production: Gantt charts, the critical path method, and PERT.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm343246384"><term>critical path</term>
+<meaning id="fs-idm347877360">In a critical path method network, the longest path through the linked activities.</meaning>
+</definition>
+<definition id="fs-idm366079168"><term>critical path method (CPM)</term>
+<meaning id="fs-idm339881472">A scheduling tool that enables a manager to determine the critical path of activities for a project—the activities that will cause the entire project to fall behind schedule if they are not completed on time.</meaning>
+</definition>
+<definition id="fs-idm333795552"><term>Gantt charts</term>
+<meaning id="fs-idm351612496">Bar graphs plotted on a time line that show the relationship between scheduled and actual production.</meaning>
+</definition>
+<definition id="fs-idm323917216"><term>program evaluation and review technique (PERT)</term>
+<meaning id="fs-idm501160272">A scheduling tool that is similar to the CPM method but assigns three time estimates for each activity (optimistic, most probable, and pessimistic); allows managers to anticipate delays and potential problems and schedule accordingly.</meaning>
+</definition>
+<definition id="fs-idm360982768"><term>routing</term>
+<meaning id="fs-idm320858512">The aspect of production control that involves setting out the work flow—the sequence of machines and operations through which the product or service progresses from start to finish.</meaning>
+</definition>
+<definition id="fs-idm334138176"><term>scheduling</term>
+<meaning id="fs-idm304407488">The aspect of production control that involves specifying and controlling the time required for each step in the production process.</meaning>
+</definition>
+<definition id="fs-idm321796256"><term>value-stream mapping</term>
+<meaning id="fs-idm352506960">Routing technique that uses simple icons to visually represent the flow of materials and information from suppliers through the factory to customers.</meaning>
+</definition>
+</glossary>
+
+</document>

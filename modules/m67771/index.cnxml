@@ -1,0 +1,53 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Insuring Bank Deposits</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67771</md:content-id>
+  <md:title>Insuring Bank Deposits</md:title>
+  <md:abstract/>
+  <md:uuid>d94c82a7-94b6-4453-b0b5-a69927fea6ff</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm374482240" list-type="enumerated" start-value="4">
+<item>How does the Federal Deposit Insurance Corporation (FDIC) protect depositors’ funds?</item>
+</list>
+<para id="fs-idm369516368">The U.S. banking system worked fairly well from when the Federal Reserve System was established in 1913 until the stock market crash of 1929 and the Great Depression that followed. Business failures caused by these events resulted in major cash shortages as people rushed to withdraw their money from banks. Many cash-starved banks failed because the Federal Reserve did not, as expected, lend money to them. The government’s efforts to prevent bank failures were ineffective. Over the next two years, 5,000 banks—about 20 percent of the total number—failed.</para>
+<para id="fs-idm372063568">President Franklin D. Roosevelt made strengthening the banking system his first priority. After taking office in 1933, Roosevelt declared a bank holiday, closing all banks for a week so he could take corrective action. Congress passed the Banking Act of 1933, which empowered the Federal Reserve System to regulate banks and reform the banking system. The act’s most important provision was the creation of the <term>Federal Deposit Insurance Corporation (FDIC)</term> to insure deposits in commercial banks. The 1933 act also gave the Federal Reserve authority to set reserve requirements, ban interest on demand deposits, regulate the interest rates on time deposits, and prohibit banks from investing in specified types of securities. In 1934 the Federal Savings and Loan Insurance Corporation (FSLIC) was formed to insure deposits at S&amp;Ls. When the FSLIC went bankrupt in the 1980s, the FDIC took over responsibility for administering the fund that insures deposits at thrift institutions.</para>
+<para id="fs-idm368438352">Today, the major deposit insurance funds include the following:</para>
+<list id="fs-idm327611024" list-type="bulleted">
+<item><emphasis effect="italics">The Deposit Insurance Fund (DIF):</emphasis> Administered by the FDIC, this fund provides deposit insurance to commercial banks and thrift institutions.</item>
+<item><emphasis effect="italics">The National Credit Union Share Insurance Fund:</emphasis> Administered by the National Credit Union Administration, this fund provides deposit insurance to credit unions.</item>
+</list>
+<section id="fs-idm368025392">
+<title>Role of the FDIC</title>
+<para id="fs-idm367602368">The FDIC is an independent, quasi-public corporation backed by the full faith and credit of the U.S. government. It examines and supervises about 4,000 banks and savings banks, more than half the institutions in the banking system. It insures trillions of dollars of deposits in U.S. banks and thrift institutions against loss if the financial institution fails.<cite target-id="rfin-ch15_14"><note class="reference" display="inline" id="rfin-ch15_14">“Who Is the FDIC?” https://www.fdic.gov, accessed September 7, 2017.</note></cite> The FDIC insures all member banks in the Federal Reserve System. The ceiling on insured deposits is $250,000 per account. Each insured bank pays the insurance premiums, which are a fixed percentage of the bank’s domestic deposits. In 1993, the FDIC switched from a flat rate for deposit insurance to a risk-based premium system because of the large number of bank and thrift failures during the 1980s and early 1990s. Some experts argue that certain banks take too much risk because they view deposit insurance as a safety net for their depositors—a view many believe contributed to earlier bank failures.</para>
+</section>
+<section id="fs-idm370503392">
+<title>Enforcement by the FDIC</title>
+<para id="fs-idm385298960">To ensure that banks operate fairly and profitably, the FDIC sets guidelines for banks and then reviews the financial records and management practices of member banks at least once a year. Bank examiners perform these reviews during unannounced visits, rating banks on their compliance with banking regulations—for example, the Equal Credit Opportunity Act, which states that a bank cannot refuse to lend money to people because of their color, religion, or national origin. Examiners also rate a bank’s overall financial condition, focusing on loan quality, management practices, earnings, liquidity, and whether the bank has enough capital (equity) to safely support its activities.</para>
+<para id="fs-idm388707328">When bank examiners conclude that a bank has serious financial problems, the FDIC can take several actions. It can lend money to the bank, recommend that the bank merge with a stronger bank, require the bank to use new management practices or replace its managers, buy loans from the bank, or provide extra equity capital to the bank. The FDIC may even cover all deposits at a troubled bank, including those over $250,000, to restore the public’s confidence in the financial system.</para>
+<para id="fs-idm383655584">With the fallout from the financial crisis of 2007–2009 still having an effect on banking and financial markets in this country and abroad, the FDIC works closely with the Federal Reserve to make sure that banks continue to maintain healthy balance sheets by “testing” their solvency on a regular basis. Although the future of Dodd-Frank regulations is open to speculation in 2017, the consequences of thinking that banks and other financial institutions were “too big to fail” has had a positive impact on banking and financial transactions with the hope that such a financial crisis can be avoided in the future.</para>
+<note id="fs-idm368707760" class="concept-check">
+<list id="fs-idm390476992" list-type="enumerated">
+<item>What is the FDIC, and what are its responsibilities?</item>
+<item>What are the major deposit insurance funds?</item>
+<item>What can the FDIC do to help financially troubled banks?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm377705376" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm384974192" list-type="enumerated" start-value="4">
+<item>How does the Federal Deposit Insurance Corporation (FDIC) protect depositors’ funds?</item>
+</list>
+<para id="fs-idm387653488">The Federal Deposit Insurance Corporation insures deposits in commercial banks through the Bank Insurance Fund and deposits in thrift institutions through the Savings Association Insurance Fund. Deposits in credit unions are insured by the National Credit Union Share Insurance Fund, which is administered by the National Credit Union Administration. The FDIC sets banking policies and practices and reviews banks annually to ensure that they operate fairly and profitably.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm384924720"><term>Federal Deposit Insurance Corporation (FDIC)</term>
+<meaning id="fs-idm373796352">An independent, quasi-public corporation backed by the full faith and credit of the U.S. government that insures deposits in commercial banks and thrift institutions for up to a ceiling of $250,000 per account.</meaning>
+</definition>
+</glossary>
+
+</document>

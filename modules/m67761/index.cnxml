@@ -1,0 +1,263 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Basic Accounting Procedures</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67761</md:content-id>
+  <md:title>Basic Accounting Procedures</md:title>
+  <md:abstract/>
+  <md:uuid>e2e689d2-593c-4933-b870-6a96f7502564</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm358906048" list-type="enumerated" start-value="3">
+<item>What are the six steps in the accounting cycle?</item>
+</list>
+<para id="fs-idm382418096">Using generally accepted accounting principles, accountants record and report financial data in similar ways for all firms. They report their findings in financial statements that summarize a company’s business transactions over a specified time period. As mentioned earlier, the three major financial statements are the balance sheet, income statement, and statement of cash flows.</para>
+<para id="fs-idm372862096">People sometimes confuse accounting with bookkeeping. Accounting is a much broader concept. <emphasis effect="italics">Bookkeeping,</emphasis> the system used to record a firm’s financial transactions, is a routine, clerical process. Accountants take bookkeepers’ transactions, classify and summarize the financial information, and then prepare and analyze financial reports. Accountants also develop and manage financial systems and help plan the firm’s financial strategy.</para>
+<section id="fs-idm376982272">
+<title>The Accounting Equation</title>
+<para id="fs-idm369134032">The accounting procedures used today are based on those developed in the late 15th century by an Italian monk, Brother Luca Pacioli. He defined the three main accounting elements as assets, liabilities, and owners’ equity. <term>Assets</term> are things of value owned by a firm. They may be <emphasis effect="italics">tangible,</emphasis> such as cash, equipment, and buildings, or <emphasis effect="italics">intangible,</emphasis> such as a patent or trademarked name. <term>Liabilities</term>—also called <emphasis effect="italics">debts</emphasis>—are what a firm owes to its creditors. <term>Owners’ equity</term> is the total amount of investment in the firm minus any liabilities. Another term for owners’ equity is <emphasis effect="italics">net worth.</emphasis></para>
+<para id="fs-idm357890176">The relationship among these three elements is expressed in the accounting equation:</para>
+<equation id="fs-idm368455504" class="unnumbered"><label/><m:math display="block">
+  <m:mrow>
+   <m:mtext>Assets</m:mtext><m:mo>−</m:mo><m:mtext>Liabilities</m:mtext><m:mo>=</m:mo><m:mtext>Owners' equity</m:mtext>
+  </m:mrow>
+</m:math></equation>
+<para id="fs-idm381222928">The accounting equation must always be in balance (that is, the total of the elements on one side of the equals sign must equal the total on the other side).</para>
+<para id="fs-idm372063568">Suppose you start a coffee shop and put $10,000 in cash into the business. At that point, the business has assets of $10,000 and no liabilities. This would be the accounting equation:</para>
+<equation id="fs-idm369832640" class="unnumbered"><label/><m:math display="block">
+  <m:mrow>
+   <m:mtable columnalign="left">
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Assets</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Liabilities</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Owners' equity</m:mtext>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mi>$</m:mi><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mi>$</m:mi><m:mn>0</m:mn>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mi>$</m:mi><m:mn>10</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+   </m:mtable>
+  </m:mrow>
+</m:math></equation>
+<para id="fs-idm371539712">The liabilities are zero and owners’ equity (the amount of your investment in the business) is $10,000. The equation balances.</para>
+<para id="fs-idm373796352">To keep the accounting equation in balance, every transaction must be recorded as two entries. As each transaction is recorded, there is an equal and opposite event so that two accounts or records are changed. This method is called <term>double-entry bookkeeping</term>.</para>
+<para id="fs-idm381627712">Suppose that after starting your business with $10,000 cash, you borrow another $10,000 from the bank. The accounting equation will change as follows:</para>
+<equation id="fs-idm385298960" class="unnumbered"><label/>
+<m:math display="block">
+  <m:mrow>
+   <m:mtable columnalign="left">
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Assets</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>=</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Liabilities</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Owners' equity</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow/>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mtext>=</m:mtext>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$0</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Initial equation</m:mtext>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mtext>=</m:mtext>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$0</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Borrowing transaction</m:mtext>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+    <m:mtr columnalign="left">
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$20,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mtext>=</m:mtext>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mo>+</m:mo>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>$10,000</m:mtext>
+      </m:mrow>
+     </m:mtd>
+     <m:mtd columnalign="left">
+      <m:mrow>
+       <m:mtext>Equation after borrowing</m:mtext>
+      </m:mrow>
+     </m:mtd>
+    </m:mtr>
+   </m:mtable>
+  </m:mrow>
+</m:math></equation>
+<para id="fs-idm380887808">Now you have $20,000 in assets—your $10,000 in cash and the $10,000 loan proceeds from the bank. The bank loan is also recorded as a liability of $10,000 because it’s a debt you must repay. Making two entries keeps the equation in balance.</para>
+</section>
+<section id="fs-idm385308576">
+<title>The Accounting Cycle</title>
+<para id="fs-idm390535312">The <emphasis effect="italics">accounting cycle</emphasis> refers to the process of generating financial statements, beginning with a business transaction and ending with the preparation of the report. <emphasis effect="bold"><link target-id="fs-idm384898160" document=""/></emphasis> shows the six steps in the accounting cycle. The first step in the cycle is to analyze the data collected from many sources. All transactions that have a financial impact on the firm—sales, payments to employees and suppliers, interest and tax payments, purchases of inventory, and the like—must be documented. The accountant must review the documents to make sure they’re complete.</para>
+<figure id="fs-idm384898160" class="scaled-down"><title>The Accounting Cycle</title><media id="fs-idm368700816" alt="Step 1, analyze business transaction documents. Step 2, record business transactions in journal. Step 3, post journal entries to ledgers. Step 4, prepare trial balance. Step 5, prepare financial statements and management reports from account data. Step 6, analyze reports.">
+<image mime-type="image/png" src="../../media/IntroBus-C14-M14-003.png"/></media>
+
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption></figure><para id="fs-idm371835824">Next, each transaction is recorded in a <emphasis effect="italics">journal,</emphasis> a listing of financial transactions in chronological order. The journal entries are then recorded in <emphasis effect="italics">ledgers,</emphasis> which show increases and decreases in specific asset, liability, and owners’ equity accounts. The ledger totals for each account are summarized in a <emphasis effect="italics">trial balance,</emphasis> which is used to confirm the accuracy of the figures. These values are used to prepare financial statements and management reports. Finally, individuals analyze these reports and make decisions based on the information in them.</para>
+<figure id="fs-idm385334480" class="scaled-down">
+<media id="fs-idm385258912" alt="Photograph shows a screen shot of a quick books page, with columns and rows of data.">
+<image mime-type="image/png" src="../../media/Mod_14_Photo_3.png"/></media>
+
+<caption>QuickBooks is a well-known software developer that provides business-management solutions to businesses of different sizes. The company’s accounting software tools benefit professionals by automating a broad range of accounting and other business tasks. QuickBooks has become standard in the accounting and business fields, assisting in managerial decision-making and streamlining bookkeeping and accounting processes. <emphasis effect="italics">What accounting functions are typically incorporated into basic accounting software programs?</emphasis> (Credit: Marc Smith/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption></figure></section>
+<section id="fs-idm384997312">
+<title>Technological Advances</title>
+<para id="fs-idm378536672">Over the past decade, technology has had a significant impact on the accounting industry. Computerized and online accounting programs now do many different things to make business operations and financial reporting more efficient. For example, most accounting packages offer basic modules that handle general ledger, sales order, accounts receivable, purchase order, accounts payable, and inventory control functions. Tax programs use accounting data to prepare tax returns and tax plans. Point-of-sale terminals used by many retail firms automatically record sales and do some of the bookkeeping. The Big Four and many other large public accounting firms develop accounting software for themselves and for clients.</para>
+<para id="fs-idm387731168">Accounting and financial applications typically represent one of the largest portions of a company’s software budget. Accounting software ranges from off-the-shelf programs for small businesses to full-scale customized enterprise resource planning systems for major corporations. Although these technological advances in accounting applications have made the financial aspects of running a small business much easier, entrepreneurs and other small-business owners should take to time to understand underlying accounting principles, which play an important role in evaluating just how financially sound a business enterprise really is.</para>
+<note id="fs-idm373087248" class="managing-change">
+<title>Data Analytics Become Effective CPA Tool</title>
+<para id="fs-idm388956752">Knowledge is power, and understanding what your customers want and how your company can provide it often differentiates you from the competition. As the accounting field continues to take advantage of technological advances, it is important that data analytics become a key element of any accounting professional’s toolbox.</para>
+<para id="fs-idm378699824">Historically described as “paper pushers” who track financial information, today’s accountants need to learn about big data and data analytics as part of their continuing education. Not long ago, an accountant’s work finished when business financial statements were finalized and tax forms were ready to be filed with federal, state, and local governing bodies. Not anymore. With the revolution of computer technology, automation, and data collection from a myriad of sources, accountants can use data analytics to provide a clearer picture of the overall business environment for their companies and clients on an ongoing basis.</para>
+<para id="fs-idm386788560">Data analytics can be defined as the process of examining numerous data sets (sometimes called big data) to draw conclusions about the information they contain, with the assistance of specialized systems and software. Using data analytics effectively can help businesses increase revenue, expand operations, maximize customer service, and more. Accountants can use data analytics to make more accurate and detailed forecasts; help companies link diverse financial and nonfinancial data sets, which provides a more comprehensive reporting of their overall performance to shareholders and others; assess and manage risk across the entire organization; and identify possible fraud.</para>
+<para id="fs-idm383689872">Data analytics can also improve and enhance the auditing process because more information will now be collected, which allows for analysis of <emphasis effect="italics">full</emphasis> data sets in situations where only samples were audited previously. In addition, continuous monitoring will be easier to accomplish using data sets that are comprehensive.</para>
+<para id="fs-idm372832480">Accounting professionals who can adapt to quickly changing technology such as data analytics will not only expand the scope of their expertise but also provide financial guidance that will give their companies and clients a strong strategic advantage over competitors.</para>
+<list id="fs-idm371616128" list-type="enumerated">
+<title>Critical Thinking Questions</title>
+<item>How can accountants use data analytics to enhance the services they provide to their clients?</item>
+<item>Is the seismic shift in technology a good thing for professional accountants? Explain your reasoning.</item>
+</list>
+<para id="fs-idm372627792">Sources: “Data Analytics,” http://searchdatamanagement.techtarget.com, accessed August 11, 2017; Jiali Tang and Khondkar E. Karim, “Big Data in Business Analytics: Implications for the Audit Profession,” <emphasis effect="italics">The CPA Journal,</emphasis> http://www.cpajournal.com, June 2017 issue; Clarence Goh, “Are You Ready? Data Analytics Is Reshaping the Work of Accountants,” https://www.cfoinnovation.com, February 28, 2017; Norbert Tschakert, Julia Kokina, Stephen Kozlowski, and Miklos Vasarhelyi, “The Next Frontier in Data Analytics,” <emphasis effect="italics">Journal of Accountancy,</emphasis> http://www.journalofaccountancy.com, August 1, 2016.</para>
+</note>
+<note id="fs-idm373417776" class="concept-check">
+<list id="fs-idm371943104" list-type="enumerated">
+<item>Explain the accounting equation.</item>
+<item>Describe the six-step accounting cycle.</item>
+<item>What role do computers and other technology play in accounting?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm382128608" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm367174384" list-type="enumerated" start-value="3">
+<item>What are the six steps in the accounting cycle?</item>
+</list>
+<para id="fs-idm380313888">The accounting cycle refers to the process of generating financial statements. It begins with analyzing business transactions, recording them in journals, and posting them to ledgers. Ledger totals are then summarized in a trial balance that confirms the accuracy of the figures. Next the accountant prepares the financial statements and reports. The final step involves analyzing these reports and making decisions. Computers have simplified many of these labor-intensive tasks.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm372454768"><term>assets</term>
+<meaning id="fs-idm369910048">Things of value owned by a firm.</meaning>
+</definition>
+<definition id="fs-idm390082464"><term>double-entry bookkeeping</term>
+<meaning id="fs-idm372091376">A method of accounting in which each transaction is recorded as two entries so that two accounts or records are changed.</meaning>
+</definition>
+<definition id="fs-idm376259248"><term>liabilities</term>
+<meaning id="fs-idm387686016">What a firm owes to its creditors; also called debts.</meaning>
+</definition>
+<definition id="fs-idm386342656"><term>owners’ equity</term>
+<meaning id="fs-idm386413872">The total amount of investment in the firm minus any liabilities; also called net worth.</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Looking for a Better Way: Improving Production and Operations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67725</md:content-id>
+  <md:title>Looking for a Better Way: Improving Production and Operations</md:title>
+  <md:abstract/>
+  <md:uuid>f66bf50a-f060-4c63-8bce-f63d0165ed01</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm334773424" list-type="enumerated" start-value="6">
+<item>How can quality-management and lean-manufacturing techniques help firms improve production and operations management?</item>
+</list>
+<para id="fs-idm344702880">Competing in today’s business world is challenging. To compete effectively, firms must keep production costs down. At the same time, however, it’s becoming increasingly complex to produce and deliver the high-quality goods and services customers demand. Methods to help meet these challenges include quality-management techniques, lean manufacturing, and technology and automation.</para>
+<section id="fs-idm353491952">
+<title>Putting Quality First</title>
+<para id="fs-idm345054976">Successful businesses recognize that quality and productivity must go hand in hand. <term>Quality</term> goods and services meet customer expectations by providing reliable performance. Defective products waste materials and time, increasing costs. Worse, poor quality causes customer dissatisfaction, which usually results in lost sales.</para>
+<para id="fs-idm334738064">A consumer measures quality by how well a product serves its purpose. From the manufacturer’s point of view, quality is the degree to which the product conforms to a set of predetermined standards. <term>Quality control</term> involves creating quality standards, producing goods that meet them, and measuring finished goods and services against them. It takes more than just inspecting goods at the end of the assembly line to ensure quality control, however. Quality control requires a company-wide dedication to managing and working in a way that builds excellence into every facet of operations.</para>
+<para id="fs-idm357540832">Dr. W. Edwards <term class="no-emphasis">Deming</term>, an American management consultant, was the first to say that quality control should be a company-wide goal. His ideas were adopted by the Japanese in the 1950s but largely ignored in the United States until the 1970s. Deming believed that quality control starts with top management, who must foster a company-wide culture dedicated to producing quality.</para>
+<para id="fs-idm341089744"><term class="no-emphasis">Deming</term>’s concept of <term>Total Quality Management (TQM)</term> emphasizes the use of quality principles in all aspects of a company’s production and operations. It recognizes that all employees involved with bringing a product or service to customers—marketing, purchasing, accounting, shipping, manufacturing—contribute to its quality. TQM focuses on <term>continuous improvement</term>, a commitment to constantly seek better ways of doing things in order to achieve greater efficiency and improve quality. Company-wide teams work together to prevent problems and systematically improve key processes instead of troubleshooting problems only as they arise. Continuous improvement continually measures performance using statistical techniques and looks for ways to apply new technologies and innovative production methods.</para>
+<para id="fs-idm304407488">Another quality-control method is the <term>Six Sigma</term> quality program. Six Sigma is a company-wide process that focuses on measuring the number of defects that occur and systematically eliminating them in order to get as close to “zero defects” as possible. In fact, Six Sigma quality aims to have every process produce no more than 3.4 defects per million. Six Sigma focuses on designing products that not only have fewer defects but that also satisfy customer needs. A key process of Six Sigma is called <emphasis effect="italics">DMAIC</emphasis>. This stands for Define, Measure, Analyze, Improve, and Control. Employees at all levels define what needs to be done to ensure quality, then measure and analyze production results using statistics to see if standards are met. They are also charged with finding ways to improve and control quality.</para>
+<para id="fs-idm317604960"><term class="no-emphasis">General Electric</term> was one of the first companies to institute Six Sigma throughout the organization. GE employees are trained in Six Sigma concepts, and many analysts believe this has given GE a competitive manufacturing advantage. Service firms and government entities have applied Six Sigma to their quality initiatives as well.</para>
+<section id="fs-idm348668512">
+<title>Malcolm Baldrige National Quality Award</title>
+<para id="fs-idm495341280">Named for a former secretary of commerce, the <term>Malcolm Baldrige National Quality Award</term> was established by the U.S. Congress in 1987 to recognize U.S. companies that offer goods and services of world-class quality. The award promotes awareness of quality and allows the business community to assess which quality control programs are most effective.</para>
+<para id="fs-idm590973808">Administered by the <term class="no-emphasis">U.S. Department of Commerce</term>’s <term class="no-emphasis">National Institute of Standards and Technologies</term> (NIST), the award’s most important criterion is a firm’s effectiveness at meeting customer expectations, as well as demonstrating that it offers quality goods and services. To qualify for the award, a company must also show continuous improvement in internal operations. Company leaders and employees must be active participants in the firm’s quality program, and they must respond quickly to data and analysis.</para>
+<para id="fs-idm323712752">Organizations in a wide variety of industries have won the Baldrige Award since it was first presented in 1987. In 2017, for example, the Baldrige Award winners included <term class="no-emphasis">Bristol Tennessee Essential Services</term>, an electricity and fiber services utility company, in the small business sector; the city of Fort Collins, Colorado, in the nonprofit sector; and <term class="no-emphasis">Southcentral Foundation</term> in Anchorage, Alaska, in the health care sector.<cite target-id="rfin-ch10_9"><note class="reference" display="inline" id="rfin-ch10_9">“Best of the Best” Win U.S. National Excellence Honor: 2017 Baldrige Award Goes to 5 Outstanding Organizations,” https://www.commerce.gov, November 16, 2017.</note></cite></para>
+</section>
+<section id="fs-idm353478016">
+<title>Worldwide Excellence: International Quality Standards</title>
+<para id="fs-idm335725312">The <term class="no-emphasis">International Organization for Standardization</term> (ISO), located in Geneva, Switzerland, is an industry organization that has developed standards of quality that are used by businesses around the world. <term>ISO 9000</term>, introduced in the 1980s, is a set of five technical standards designed to offer a uniform way of determining whether manufacturing plants and service organizations conform to sound quality procedures. To register, a company must go through an audit of its manufacturing and customer service processes, covering everything from how it designs, produces, and installs its products, to how it inspects, packages, and markets them. Over 500,000 organizations worldwide have met ISO 9000 standards.</para>
+<para id="fs-idm490854400"><term>ISO 14000</term>, launched after ISO 9000, was designed in response to environmental issues such as global warming and water pollution and promotes clean production processes. To meet ISO 14000 standards, a company must commit to continually improving environmental management and reducing pollution resulting from its production processes.</para>
+</section>
+</section>
+<section id="fs-idm332342512">
+<title>Lean Manufacturing Trims the Fat</title>
+<para id="fs-idm319210080">Manufacturers are discovering that they can better respond to rapidly changing customer demands, while keeping inventory and production costs down, by adopting lean-manufacturing techniques. <term>Lean manufacturing</term> streamlines production by eliminating steps in the production process that do not add benefits customers want. In other words, <emphasis effect="italics">non-value-added production processes</emphasis> are cut so that the company can concentrate its production and operations resources on items essential to satisfying customers. Toyota was a pioneer in developing these techniques, but today manufacturers in many industries have adopted the lean-manufacturing philosophy.</para>
+<para id="fs-idm336579248">Another Japanese concept, <term>just-in-time (JIT)</term>, goes hand in hand with lean manufacturing. JIT is based on the belief that materials should arrive exactly when they are needed for production, rather than being stored on-site. Relying closely on computerized systems such as MRP, MRPII, and ERP, manufacturers determine what parts will be needed and when and then order them from suppliers so they arrive “just in time.” Under the JIT system, inventory and products are “pulled” through the production process in response to customer demand. JIT requires close teamwork between vendors and purchasing and production personnel because any delays in deliveries of supplies could bring JIT production to a halt.</para>
+<para id="fs-idm362131648">Unexpected events like the September 11 terrorist attacks or the shutdown of ports due to Hurricane Harvey and the devastation and flooding caused by Hurricane Maria in Puerto Rico can cause chaos in the supply chains of manufacturers, resulting in problems for firms relying on JIT. But if employed properly, and in spite of these risks, a JIT system can greatly reduce inventory-holding costs and smooth production highs and lows.</para>
+<note id="fs-idm347653568" class="concept-check">
+<list id="fs-idm356401232" list-type="enumerated">
+<item>How can managers use techniques to improve efficiency?</item>
+<item>Define Six Sigma.</item>
+<item>What was Edward Demming’s contribution to operations management?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm489637792" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm352792464" list-type="enumerated" start-value="6">
+<item>How can quality-management and lean-manufacturing techniques help firms improve production and operations management?</item>
+</list>
+<para id="fs-idm333825568">Quality and productivity go hand in hand. Defective products waste materials and time, increasing costs. Poor quality also leads to dissatisfied customers. By implementing quality-control methods, firms can reduce these problems and streamline production. Lean manufacturing also helps streamline production by eliminating unnecessary steps in the production process. When activities that don’t add value for customers are eliminated, manufacturers can respond to changing market conditions with greater flexibility and ease.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm323917216"><term>continuous improvement</term>
+<meaning id="fs-idm345754896">A commitment to constantly seek better ways of doing things in order to achieve greater efficiency and improve quality.</meaning>
+</definition>
+<definition id="fs-idm345762832"><term>ISO 9000</term>
+<meaning id="fs-idm361741264">A set of five technical standards of quality management created by the International Organization for Standardization to provide a uniform way of determining whether manufacturing plants and service organizations conform to sound quality procedures.</meaning>
+</definition>
+<definition id="fs-idm365512512"><term>ISO 14000</term>
+<meaning id="fs-idm323516336">A set of technical standards designed by the International Organization for Standardization to promote clean production processes to protect the environment.</meaning>
+</definition>
+<definition id="fs-idm501188496"><term>just-in-time (JIT)</term>
+<meaning id="fs-idm360888016">A system in which materials arrive exactly when they are needed for production, rather than being stored on-site.</meaning>
+</definition>
+<definition id="fs-idm326392528"><term>lean manufacturing</term>
+<meaning id="fs-idm317586336">Streamlining production by eliminating steps in the production process that do not add benefits that customers want.</meaning>
+</definition>
+<definition id="fs-idm365854896"><term>Malcolm Baldrige National Quality Award</term>
+<meaning id="fs-idm338744672">An award given to recognize U.S. companies that offer goods and services of world-class quality; established by Congress in 1987 and named for a former secretary of commerce.</meaning>
+</definition>
+<definition id="fs-idm344464864"><term>quality</term>
+<meaning id="fs-idm343854080">Goods and services that meet customer expectations by providing reliable performance.</meaning>
+</definition>
+<definition id="fs-idm339890720"><term>quality control</term>
+<meaning id="fs-idm363043888">The process of creating quality standards, producing goods that meet them, and measuring finished goods and services against them.</meaning>
+</definition>
+<definition id="fs-idm342052976"><term>Six Sigma</term>
+<meaning id="fs-idm351443296">A quality-control process that relies on defining what needs to be done to ensure quality, measuring and analyzing production results statistically, and finding ways to improve and control quality.</meaning>
+</definition>
+<definition id="fs-idm340771984"><term>Total Quality Management (TQM)</term>
+<meaning id="fs-idm340554544">The use of quality principles in all aspects of a company’s production and operations.</meaning>
+</definition>
+</glossary>
+
+</document>

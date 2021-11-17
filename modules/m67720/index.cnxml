@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Production and Operations Management—An Overview</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67720</md:content-id>
+  <md:title>Production and Operations Management—An Overview</md:title>
+  <md:abstract/>
+  <md:uuid>e009b9eb-4555-468d-bec9-95cb270d9290</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm340657088" list-type="enumerated">
+<item>Why is production and operations management important in both manufacturing and service firms?</item>
+</list>
+<para id="fs-idm590267648"><term>Production</term>, the creation of products and services, is an essential function in every firm. Production turns inputs, such as natural resources, raw materials, human resources, and capital, into outputs, which are products and services. This process is shown in <emphasis effect="bold"><link target-id="fs-idm471836848" document=""/></emphasis>. Managing this conversion process is the role of <term>operations management</term>.</para><figure id="fs-idm311818048" class="scaled-down">
+<media id="fs-idm491803552" alt="A photograph shows a rural landscape, and on the hill in the distance is a large, high tech drill.">
+<image mime-type="image/jpg" src="../../media/Photo_1_Fracking.jpg"/></media>
+<caption>Building an overpass or road bridge is a complex and multidimensional process involving equipment and materials from dozens of entities. Earth movers, cranes, drainage and sewers, safety components, gravel, cement, and large objects such as steel girders must all be transported to the site according to a tight schedule and specific budget. And then the workers, engineers, and inspectors must be sourced, scheduled, and compensated. This work is done at multiple locations, all at once, in every state in the country. Operations managers are core to making it happen. <emphasis effect="italics">What are the key inputs in the road construction process?</emphasis> (Credit: Mark Dixon/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption>
+</figure>
+<para id="fs-idm317395840">The goal of customer satisfaction is an important part of effective production and operations. In the past, the manufacturing function in most companies was inwardly focused. Manufacturing had little contact with customers and didn’t always understand their needs and desires. In the 1980s, many U.S. industries, such as automotive, steel, and electronics, lost customers to foreign competitors because their production systems could not provide the quality customers demanded. As a result, today most American companies, both large and small, consider a focus on quality to be a central component of effective operations management.</para>
+<figure id="fs-idm471836848" class="scaled-down"><title>Production Process for Products and Services</title><media id="fs-idm620113952" alt="Diagram shows the inputs, which are factors of production, as natural resources, human resources, raw materials, and capital. A conversion process takes place, and the outputs are products and services.">
+<image mime-type="image/png" src="../../media/IntroBus-C10-M10-001.png"/></media>
+
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption></figure><para id="fs-idm324109952">Stronger links between marketing and manufacturing also encourage production managers to be more outwardly focused and to consider decisions in light of their effect on customer satisfaction. Service companies find that making operating decisions with customer satisfaction in mind can be a competitive advantage.</para>
+<para id="fs-idm353006544">Operations managers, the people charged with managing and supervising the conversion process, play a vital role in today’s firm. They control about three-fourths of a firm’s assets, including inventories, wages, and benefits. They also work closely with other major divisions of the firm, such as marketing, finance, accounting, and human resources, to ensure that the firm produces its goods profitably and satisfies its customers. Marketing personnel help them decide which products to make or which services to offer. Accounting and human resources help them face the challenge of combining people and resources to produce high-quality goods on time and at reasonable cost. They are involved in the development and design of goods and determine what production processes will be most effective.</para>
+<para id="fs-idm348668512">Production and operations management involve three main types of decisions, typically made at three different stages:</para>
+<list id="fs-idm343941232" list-type="enumerated">
+<item><emphasis effect="italics">Production planning.</emphasis> The first decisions facing operations managers come at the <emphasis effect="italics">planning stage.</emphasis> At this stage, managers decide where, when, and how production will occur. They determine site locations and obtain the necessary resources.</item>
+<item><emphasis effect="italics">Production control.</emphasis> At this stage, the decision-making process focuses on controlling quality and costs, scheduling, and the actual day-to-day operations of running a factory or service facility.</item>
+<item><emphasis effect="italics">Improving production and operations</emphasis>. The final stage of operations management focuses on developing more efficient methods of producing the firm’s goods or services.</item>
+</list>
+<para id="fs-idm495348064">All three decisions are ongoing and may occur simultaneously. In the following sections, we will take a closer look at the decisions and considerations firms face in each stage of production and operations management.</para>
+<section id="fs-idm490854400">
+<title>Gearing Up: Production Planning</title>
+<para id="fs-idm340678480">An important part of operations management is <term>production planning</term>. Production planning allows the firm to consider the competitive environment and its own strategic goals to find the best production methods. Good production planning has to balance goals that may conflict, such as providing high-quality service while keeping operating costs low, or keeping profits high while maintaining adequate inventories of finished products. Sometimes accomplishing all these goals is difficult.</para>
+<figure id="fs-idm362671248" class="scaled-down">
+<media id="fs-idm342637584" alt="A photograph shows customized Vespa scooters parked on a grassy field with tents in the background.">
+<image mime-type="image/png" src="../../media/MOD_10_Photo_2_Vespa_ALT CC-BY.png"/></media>
+
+<caption>From its storied creation in post-war Italy to its big-screen immortalization in movies such as <emphasis effect="italics">Roman Holiday</emphasis> and <emphasis effect="italics">Quadrophenia</emphasis>, the Vespa scooter has a reputation for romance, rebellion, and style. Manufactured by Italy’s Piaggio Group, the Vespa’s svelte, stainless-steel chassis and aeronautic-inspired designs are seen everywhere in Europe and more and more in the United States. The Piaggio Group presently operates factories in Italy, Vietnam, India, and China. <emphasis effect="italics">What important production-planning decisions does Piaggio need to make as it considers expanding into more overseas markets?</emphasis> (Credit: Steve Watkins/ Flickr/ Attribution-2.0 Generic (CC BY2.0))</caption></figure><para id="fs-idm366911648">Production planning involves three phases. Long-term planning has a time frame of three to five years. It focuses on which goods to produce, how many to produce, and where they should be produced. Medium-term planning decisions cover about two years. They concern the layout of factory or service facilities, where and how to obtain the resources needed for production, and labor issues. Short-term planning, within a one-year time frame, converts these broader goals into specific production plans and materials management strategies.</para>
+<para id="fs-idm345762832">Four important decisions must be made in production planning. They involve the type of production process that will be used, site selection, facility layout, and resource planning.</para>
+<note id="fs-idm457338096" class="concept-check">
+<list id="fs-idm359536464" list-type="enumerated">
+<item>What are the three types of decisions that must be made in production planning?</item>
+<item>What are the three phases of production planning?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm356373712" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm311917648" list-type="enumerated">
+<item>Why is production and operations management important in both manufacturing and service firms?</item>
+</list>
+<para id="fs-idm357662640">In the 1980s, many U.S. manufacturers lost customers to foreign competitors because their production and operations management systems did not support the high-quality, reasonably priced products consumers demanded. Service organizations also rely on effective operations management in order to satisfy consumers. Operations managers, the personnel charged with managing and supervising the conversion of inputs into outputs, work closely with other functions in organizations to help ensure quality, customer satisfaction, and financial success.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm330024576"><term>operations management</term>
+<meaning id="fs-idm341089744">Management of the production process.</meaning>
+</definition>
+<definition id="fs-idm323306720"><term>production</term>
+<meaning id="fs-idm353491952">The creation of products and services by turning inputs, such as natural resources, raw materials, human resources, and capital, into outputs, which are products and services.</meaning>
+</definition>
+<definition id="fs-idm490938416"><term>production planning</term>
+<meaning id="fs-idm490534000">The aspect of operations management in which the firm considers the competitive environment and its own strategic goals in an effort to find the best production methods.</meaning>
+</definition>
+</glossary>
+
+</document>

@@ -1,0 +1,150 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Federal Reserve System</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67769</md:content-id>
+  <md:title>The Federal Reserve System</md:title>
+  <md:abstract/>
+  <md:uuid>0215a779-269f-4e82-a9b5-c7f20281ff76</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm368610224" list-type="enumerated" start-value="2">
+<item>How does the Federal Reserve manage the money supply?</item>
+</list>
+<para id="fs-idm377755280">Before the twentieth century, there was very little government regulation of the U.S. financial or monetary systems. In 1907, however, several large banks failed, creating a public panic that led worried depositors to withdraw their money from other banks. Soon many other banks had failed, and the U.S. banking system was near collapse. The panic of 1907 was so severe that Congress created the Federal Reserve System in 1913 to provide the nation with a more stable monetary and banking system.</para>
+<para id="fs-idm351763712">The <term>Federal Reserve System</term> (commonly called the <emphasis effect="bold">Fed</emphasis>) is the central bank of the United States. The Fed’s primary mission is to oversee the nation’s monetary and credit system and to support the ongoing operation of America’s private-banking system. The Fed’s actions affect the interest rates banks charge businesses and consumers, help keep inflation under control, and ultimately stabilize the U.S. financial system. The Fed operates as an independent government entity. It derives its authority from Congress but its decisions do not have to be approved by the president, Congress, or any other government branch. However, Congress does periodically review the Fed’s activities, and the Fed must work within the economic framework established by the government.</para>
+<para id="fs-idm368464448">The Fed consists of 12 district banks, each covering a specific geographic area. <emphasis effect="bold"><link target-id="fs-idm376714976" document=""/></emphasis> shows the 12 districts of the Federal Reserve. Each district has its own bank president who oversees operations within that district.</para>
+<para id="fs-idm358316672">Originally, the Federal Reserve System was created to control the money supply, act as a borrowing source for banks, hold the deposits of member banks, and supervise banking practices. Its activities have since broadened, making it the most powerful financial institution in the United States. Today, four of the Federal Reserve System’s most important responsibilities are carrying out monetary policy, setting rules on credit, distributing currency, and making check clearing easier.</para>
+<figure id="fs-idm376714976" class="scaled-down">
+<title>Federal Reserve Districts and Banks</title>
+<media id="fs-idm372063568" alt="The map is sectioned into 12 districts, and one city within each district is noted. District 1 is the New England states, and the city noted is Boston. District 2 is New York state, and the city noted is New York City. District 3 is made up of New Jersey, and the eastern half of Pennsylvania, and the city noted is Philadelphia. District 4 is made up of Ohio, the north eastern portion of Kentucky and the western portion of Pennsylvania; the city noted is Cleveland. District 5 is made up of Virginia, West Virginia, North and South Carolina, Delaware, Maryland, and Washington D C. The city noted for district 5 is Richmond. District 6 is made up of the eastern half of Tennessee, Georgia, Florida, Alabama, the southern half of Mississippi, and the southern half of Louisiana. The city noted in district 6 is Atlanta. District 7 is made up of the southern half of Michigan, the northern half of Indiana, the northern half of Illinois, and Iowa. The city noted for district 7 is Chicago. District 8 is made up of Missouri, much of Kentucky, Arkansas, and the northern portion of Mississippi. The city noted in district 8 is Saint Louis. District 9 is made up of Montana, North and South Dakota, Minnesota, Wisconsin, and the northern portion of Michigan. The city noted in district 9 is Minneapolis. District 10 is made up of Wyoming, Colorado, Nebraska, Kansas, Oklahoma, and the very northern portion of New Mexico. The city noted in district 10 is Kansas City. District 11 contains Texas, the northern portion of Louisiana, and the remaining portion of New Mexico. The city noted in district 11 is Dallas. District 12 is made up of Washington state, Oregon, Idaho, Utah, Nevada, Arizona, California, Hawaii, and Alaska. The city noted for district 12 is San Francisco.">
+<image mime-type="image/png" src="../../media/IntroBus-C15-M15-003.png"/></media>
+
+<caption>Source: “Federal Reserve Banks,” https://www.richmondfed.org, accessed September 7, 2017.</caption></figure><section id="fs-idm376800144">
+<title>Carrying Out Monetary Policy</title>
+<para id="fs-idm372983568">The most important function of the Federal Reserve System is carrying out monetary policy. The <term class="no-emphasis">Federal Open Market Committee</term> (FOMC) is the Fed policy-making body that meets eight times a year to make monetary policy decisions. It uses its power to change the money supply in order to control inflation and interest rates, increase employment, and influence economic activity. Three tools used by the Federal Reserve System in managing the money supply are open market operations, reserve requirements, and the discount rate. <emphasis effect="bold"><link target-id="fs-idm368006400" document=""/></emphasis> summarizes the short-term effects of these tools on the economy.</para>
+<para id="fs-idm370995568"><term>Open market operations</term>—the tool most frequently used by the Federal Reserve—involve the purchase or sale of U.S. government bonds. The U.S. Treasury issues bonds to obtain the extra money needed to run the government (if taxes and other revenues aren’t enough). In effect, Treasury bonds are long-term loans (five years or longer) made by businesses and individuals to the government. The Federal Reserve buys and sells these bonds for the Treasury. When the Federal Reserve buys bonds, it puts money into the economy. Banks have more money to lend, so they reduce interest rates, which generally stimulates economic activity. The opposite occurs when the Federal Reserve sells government bonds.</para>
+<table id="fs-idm368006400" summary="The Federal Reserve System’s Monetary Tools and Their Effects"><tgroup cols="5"><colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<colspec colnum="5" colname="c5"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c5">The Federal Reserve System’s Monetary Tools and Their Effects</entry>
+</row>
+<row>
+<entry>Tool</entry>
+<entry>Action</entry>
+<entry>Effect on Money Supply</entry>
+<entry>Effect on Interest Rates</entry>
+<entry>Effect on Economic Activity</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry valign="middle" morerows="1">Open market operations</entry>
+<entry>Buy government bonds</entry>
+<entry>Increases</entry>
+<entry>Lowers</entry>
+<entry>Stimulates</entry>
+</row>
+<row>
+
+<entry>Sell government bonds</entry>
+<entry>Decreases</entry>
+<entry>Raises</entry>
+<entry>Slows Down</entry>
+</row>
+<row>
+<entry valign="middle" morerows="1">Reserve requirements</entry>
+<entry>Raise reserve requirements</entry>
+<entry>Decreases</entry>
+<entry>Raises</entry>
+<entry>Slows Down</entry>
+</row>
+<row>
+<entry>Lower reserve requirements</entry>
+<entry>Increases</entry>
+<entry>Lowers</entry>
+<entry>Stimulates</entry>
+</row>
+<row>
+<entry valign="middle" morerows="1">Discount rate</entry>
+<entry>Raise discount rate</entry>
+<entry>Decreases</entry>
+<entry>Raises</entry>
+<entry>Slows Down</entry>
+</row>
+<row>
+<entry>Lower discount rate</entry>
+<entry>Increases</entry>
+<entry>Lowers</entry>
+<entry>Stimulates</entry>
+</row>
+</tbody>
+
+</tgroup>
+</table><para id="fs-idm378630592">Banks that are members of the Federal Reserve System must hold some of their deposits in cash in their vaults or in an account at a district bank. This <term>reserve requirement</term> ranges from 3 to 10 percent on different types of deposits. When the Federal Reserve raises the reserve requirement, banks must hold larger reserves and thus have less money to lend. As a result, interest rates rise, and economic activity slows down. Lowering the reserve requirement increases loanable funds, causes banks to lower interest rates, and stimulates the economy; however, the Federal Reserve seldom changes reserve requirements.</para>
+<para id="fs-idm356547680">The Federal Reserve is called “the banker’s bank” because it lends money to banks that need it. The interest rate that the Federal Reserve charges its member banks is called the <term>discount rate</term>. When the discount rate is less than the cost of other sources of funds (such as certificates of deposit), commercial banks borrow from the Federal Reserve and then lend the funds at a higher rate to customers. The banks profit from the <emphasis effect="italics">spread,</emphasis> or difference, between the rate they charge their customers and the rate paid to the Federal Reserve. Changes in the discount rate usually produce changes in the interest rate that banks charge their customers. The Federal Reserve raises the discount rate to slow down economic growth and lowers it to stimulate growth.</para>
+</section>
+<section id="fs-idm376167600">
+<title>Setting Rules on Credit</title>
+<para id="fs-idm387712960">Another activity of the Federal Reserve System is setting rules on credit. It controls the credit terms on some loans made by banks and other lending institutions. This power, called <term>selective credit controls</term>, includes consumer credit rules and margin requirements. <emphasis effect="italics">Consumer credit rules</emphasis> establish the minimum down payments and maximum repayment periods for consumer loans. The Federal Reserve uses credit rules to slow or stimulate consumer credit purchases. <emphasis effect="italics">Margin requirements</emphasis> specify the minimum amount of cash an investor must put up to buy securities or investment certificates issued by corporations or governments. The balance of the purchase cost can be financed through borrowing from a bank or brokerage firm. By lowering the margin requirement, the Federal Reserve stimulates securities trading. Raising the margin requirement slows trading.</para>
+</section>
+<section id="fs-idm390179872">
+<title>Distributing Currency: Keeping the Cash Flowing</title>
+<para id="fs-idm384329072">The Federal Reserve distributes the coins minted and the paper money printed by the U.S. Treasury to banks. Most paper money is in the form of Federal Reserve notes. Look at a dollar bill and you’ll see “Federal Reserve Note” at the top. The large letter seal on the left indicates which Federal Reserve Bank issued it. For example, bills bearing a <emphasis effect="italics">D</emphasis> seal are issued by the Federal Reserve Bank of Cleveland, and those with an <emphasis effect="italics">L</emphasis> seal are issued by the San Francisco district bank.</para>
+</section>
+<section id="fs-idm329510192">
+<title>Making Check Clearing Easier</title>
+<para id="fs-idm368409120">Another important activity of the Federal Reserve is processing and clearing checks between financial institutions. When a check is cashed at a financial institution other than the one holding the account on which the check is drawn, the Federal Reserve’s system lets that financial institution—even if distant from the institution holding the account on which the check is drawn—quickly convert the check into cash. Checks drawn on banks within the same Federal Reserve district are handled through the local Federal Reserve Bank using a series of bookkeeping entries to transfer funds between the financial institutions. The process is more complex for checks processed between different Federal Reserve districts.</para>
+<para id="fs-idm383627168">The time between when the check is written and when the funds are deducted from the check writer’s account provides float. <emphasis effect="italics">Float</emphasis> benefits the check writer by allowing it to retain the funds until the check clears—that is, when the funds are actually withdrawn from its accounts. Businesses open accounts at banks around the country that are known to have long check-clearing times. By “playing the float,” firms can keep their funds invested for several extra days, thus earning more money. To reduce this practice, in 1988 the Fed established maximum check-clearing times. However, as credit cards and other types of electronic payments have become more popular, the use of checks continues to decline. Responding to this decline, the Federal Reserve scaled back its check-processing facilities over the past decade. Current estimates suggest that the number of check payments has declined by two billion annually over the last couple of years and will continue to do so as more people use online banking and other electronic payment systems.<cite target-id="rfin-ch15_3"><note class="reference" display="inline" id="rfin-ch15_3">“The Federal Reserve Payments Study 2016,” https://www.federalreserve.gov, accessed September 7, 2017; Brad Kvederis, “The Paper Check Lives: Why the Check Decline Slowed in 2016,” http://fi.deluxe.com, January 19, 2017.</note></cite></para>
+</section>
+<section id="fs-idm370861728">
+<title>Managing the 2007–2009 Financial Crisis</title>
+<para id="fs-idm388440032">Much has been written over the past decade about the global financial crisis that occurred between 2007 and 2009. Some suggest that without the Fed’s intervention, the U.S. economy would have slipped deeper into a financial depression that could have lasted years. Several missteps by banks, mortgage lenders, and other financial institutions, which included approving consumers for home mortgages they could not afford and then packaging those mortgages into high-risk financial products sold to investors, put the U.S. economy into serious financial trouble.<cite target-id="rfin-ch15_4"><note class="reference" display="inline" id="rfin-ch15_4">“BLS Spotlight on Statistics: The Recession of 2007–2009,” http://www.bls.gov/spotlight, accessed September 7, 2017.</note></cite></para>
+<para id="fs-idm388956752">In the early 2000s, the housing industry was booming. Mortgage lenders were signing up consumers for mortgages that “on paper” they could afford. In many instances, lenders told consumers that based on their credit rating and other financial data, they could easily take the next step and buy a bigger house or maybe a vacation home because of the availability of mortgage money and low interest rates. When the U.S. housing bubble burst in late 2007, the value of real estate plummeted, and many consumers struggled to pay mortgages on houses no longer worth the value they borrowed to buy the properties, leaving their real estate investments “underwater.” Millions of consumers simply walked away from their houses, letting them go into foreclosure while filing personal bankruptcy. At the same time, the overall economy was going into a recession, and millions of people lost their jobs as companies tightened their belts to try to survive the financial upheaval affecting the United States as well as other countries across the globe.<cite target-id="rfin-ch15_5"><note class="reference" display="inline" id="rfin-ch15_5">“Predatory Lending,” <emphasis effect="italics">The Economist,</emphasis> https://www.economist.com, accessed September 7, 2017; Steve Denning, “Lest We Forget: Why We Had a Financial Crisis,” <emphasis effect="italics">Forbes,</emphasis> http://www.forbes.com, November 22, 2011.</note></cite></para>
+<para id="fs-idm357777824">In addition, several leading financial investment firms, particularly those that managed and sold the high-risk, mortgage-backed financial products, failed quickly because they had not set aside enough money to cover the billions of dollars they lost on mortgages now going into default. For example, the venerable financial company <term class="no-emphasis">Bear Stearns</term>, which had been a successful business for more than 85 years, was eventually sold to <term class="no-emphasis">JP Morgan</term> for less than $10 a share, even after the Federal Reserve made more than $50 billion dollars available to help prop up financial institutions in trouble.<cite target-id="rfin-ch15_6"><note class="reference" display="inline" id="rfin-ch15_6">Kimberly Amadeo, “What Is Too Big to Fail? With Examples of Banks,” <emphasis effect="italics">The Balance,</emphasis> https://www.thebalance.com, accessed September 7, 2017; John Maxfield, “A Timeline of Bear Stearns' Downfall,” <emphasis effect="italics">The Motley Fool,</emphasis> https://www.fool.com, accessed September 7, 2017.</note></cite></para>
+<para id="fs-idm375846800">After the collapse of <term class="no-emphasis">Bear Stearns</term> and other firms such as <term class="no-emphasis">Lehman Brothers</term> and insurance giant <term class="no-emphasis">AIG</term>, the Fed set up a special loan program to stabilize the banking system and to keep the U.S. bond markets trading at a normal pace. It is estimated that the Federal Reserve made more than $9 trillion in loans to major banks and other financial firms during the two-year crisis—not to mention bailing out the auto industry and buying several other firms to keep the financial system afloat.<cite target-id="rfin-ch15_7"><note class="reference" display="inline" id="rfin-ch15_7">Chris Isidore, “Fed Made $9 Trillion in Emergency Overnight Loans,” <emphasis effect="italics">CNN Money,</emphasis> http://money.cnn.com, accessed September 7, 2017.</note></cite></para>
+<para id="fs-idm370454816">As a result of this financial meltdown, Congress passed legislation in 2010 to implement major regulations in the financial industry to prevent the future collapse of financial institutions, as well to put a check on abusive lending practices by banks and other firms. Among its provisions, the <term class="no-emphasis">Dodd-Frank Wall Street Reform and Consumer Protection Act</term> (known as Dodd-Frank) created an oversight council to monitor risks that affect the financial industry; requires banks to increase their cash reserves if the council feels the bank has too much risk in its current operations; prohibits banks from owning, investing, or sponsoring hedge funds, private equity funds, or other proprietary trading operations for profit; and set up a whistle-blower program to reward people who come forward to report security and other financial violations.<cite target-id="rfin-ch15_8"><note class="reference" display="inline" id="rfin-ch15_8">Mark Koba, “Dodd-Frank Act: CNBC Explains,” <emphasis effect="italics">CNBC,</emphasis> https://www.cnbc.com, accessed September 7, 2017.</note></cite></para>
+<para id="fs-idm386413872">Another provision of Dodd-Frank legislation requires major U.S. banks to submit to annual stress tests conducted by the Federal Reserve. These annual checkups determine whether banks have enough capital to survive economic turbulence in the financial system and whether the institutions can identify and measure risk as part of their capital plan to pay dividends or buy back shares. In 2017, seven years after Dodd-Frank became law, all of the country’s major banks passed the annual examination.<cite target-id="rfin-ch15_9"><note class="reference" display="inline" id="rfin-ch15_9">James McBride, “The Role of the U.S. Federal Reserve,” <emphasis effect="italics">Council on Foreign Relations,</emphasis> https://www.cfr.org, accessed September 7, 2017; Donna Borak, “For the First Time, All U.S. Banks Pass Fed’s Stress Tests,” <emphasis effect="italics">CNN Money,</emphasis> http://money.cnn.com, June 28, 2017.</note></cite></para>
+<figure id="fs-idm380093552" class="scaled-down"><media id="fs-idm387278624" alt="A photo shows dollar bills bundled and wrapped in $100 dollar amounts.">
+<image mime-type="image/jpg" src="../../media/Exhibit 15.4_ Money Photo.jpg"/></media>
+
+<caption>The Federal Reserve kept short-term interest rates close to 0 percent for more than seven years, from 2009 to December 2015, as a result of the global financial crisis. Now that the economy seems to be recovering at a slow but steady pace, the Fed began to raise the interest rate to 1.00–1.25 percent in mid-2017. <emphasis effect="italics">What effect do higher interest rates have on the U.S. economy?</emphasis> (Credit: ./ Pexels/ CC0 License/✓ Free for personal and commercial use/✓ No attribution required)</caption></figure><note id="fs-idm357792240" class="concept-check">
+<list id="fs-idm384347152" list-type="enumerated">
+<item>What are the four key functions of the Federal Reserve System?</item>
+<item>What three tools does the Federal Reserve System use to manage the money supply, and how does each affect economic activity?</item>
+<item>What was the Fed’s role in keeping the U.S. financial markets solvent during the 2007–2009 financial crisis?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm385541744" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm372001232" list-type="enumerated" start-value="2">
+<item>How does the Federal Reserve manage the money supply?</item>
+</list>
+<para id="fs-idm376910832">The Federal Reserve System (the Fed) is an independent government agency that performs four main functions: carrying out monetary policy, setting rules on credit, distributing currency, and making check clearing easier. The three tools it uses in managing the money supply are open market operations, reserve requirements, and the discount rate. The Fed played a major role in keeping the U.S. financial system solvent during the financial crisis of 2007–2009 by making more than $9 trillion available in loans to major banks and other financial firms, in addition to bailing out the auto industry and other companies and supporting congressional passage of Dodd-Frank federal legislation.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm371153664"><term>discount rate</term>
+<meaning id="fs-idm373635008">The interest rate that the Federal Reserve charges its member banks.</meaning>
+</definition>
+<definition id="fs-idm351903744"><term>Federal Reserve System (Fed)</term>
+<meaning id="fs-idm383100704">The central bank of the United States; consists of 12 district banks, each located in a major U.S. city.</meaning>
+</definition>
+<definition id="fs-idm378446800"><term>open market operations</term>
+<meaning id="fs-idm375764112">The purchase or sale of U.S. government bonds by the Federal Reserve to stimulate or slow down the economy.</meaning>
+</definition>
+<definition id="fs-idm373641456"><term>reserve requirement</term>
+<meaning id="fs-idm327673424">Requires banks that are members of the Federal Reserve System to hold some of their deposits in cash in their vaults or in an account at a district bank.</meaning>
+</definition>
+<definition id="fs-idm389033024"><term>selective credit controls</term>
+<meaning id="fs-idm387602912">The power of the Federal Reserve to control consumer credit rules and margin requirements.</meaning>
+</definition>
+</glossary>
+
+</document>

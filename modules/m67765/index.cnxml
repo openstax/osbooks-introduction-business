@@ -1,0 +1,392 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+
+<title>Analyzing Financial Statements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67765</md:content-id>
+  <md:title>Analyzing Financial Statements</md:title>
+  <md:abstract/>
+  <md:uuid>b555c2eb-2a1e-4c9d-8169-250664d742c4</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm383637664" list-type="enumerated" start-value="7">
+<item>How can ratio analysis be used to identify a firm’s financial strengths and weaknesses?</item>
+</list>
+<para id="fs-idm382205888">Individually, the balance sheet, income statement, and statement of cash flows provide insight into the firm’s operations, profitability, and overall financial condition. By studying the relationships among the financial statements, however, one can gain even more insight into a firm’s financial condition and performance. A good way to think about analyzing financial statements is to compare it a fitness trainer putting clients through various well-established assessments and metrics to determine whether a specialized fitness program is paying dividends for the person in terms of better strength, endurance, and overall health. Financial statements at any given time can provide a snapshot of a company’s overall health. Company management must use certain standards and measurements to determine whether they need to implement additional strategies to keep the company fit and making a profit.</para>
+<para id="fs-idm369938192"><term>Ratio analysis</term> involves calculating and interpreting financial ratios using data taken from the firm’s financial statements in order to assess its condition and performance. A financial ratio states the relationship between financial data on a percentage basis. For instance, current assets might be viewed relative to current liabilities or sales relative to assets. The ratios can then be compared over time, typically three to five years. A firm’s ratios can also be compared to industry averages or to those of another company in the same industry. Period-to-period and industry ratios provide a meaningful basis for comparison, so that we can answer questions such as, “Is this particular ratio good or bad?”</para>
+<para id="fs-idm373134928">It’s important to remember that ratio analysis is based on historical data and may not indicate future financial performance. Ratio analysis merely highlights potential problems; it does not prove that they exist. However, ratios can help managers monitor the firm’s performance from period to period to understand operations better and identify trouble spots.</para>
+<para id="fs-idm386180256">Ratios are also important to a firm’s present and prospective creditors (lenders), who want to see if the firm can repay what it borrows and assess the firm’s financial health. Often loan agreements require firms to maintain minimum levels of specific ratios. Both present and prospective shareholders use ratio analysis to look at the company’s historical performance and trends over time.</para>
+<para id="fs-idm369487952">Ratios can be classified by what they measure: liquidity, profitability, activity, and debt. Using Delicious Desserts’ 2018 balance sheet and income statement (<emphasis effect="bold"><link target-id="fs-idm264673488" document="m67762"/></emphasis> and <emphasis effect="bold"><link target-id="fs-idm373570592" document="m67763"/></emphasis>), we can calculate and interpret the key ratios in each group. <emphasis effect="bold"><link target-id="fs-idm385002016" document=""/></emphasis> summarizes the calculations of these ratios for Delicious Desserts. We’ll now discuss how to calculate the ratios and, more important, how to interpret the ratio value.</para>
+<section id="fs-idm384924720">
+<title>Liquidity Ratios</title>
+<para id="fs-idm383589488"><term>Liquidity ratios</term> measure the firm’s ability to pay its short-term debts as they come due. These ratios are of special interest to the firm’s creditors. The three main measures of liquidity are the current ratio, the acid-test (quick) ratio, and net working capital.</para>
+<para id="fs-idm381601792">The <term>current ratio</term> is the ratio of total current assets to total current liabilities. Traditionally, a current ratio of 2 ($2 of current assets for every $1 of current liabilities) has been considered good. Whether it is sufficient depends on the industry in which the firm operates. Public utilities, which have a very steady cash flow, operate quite well with a current ratio well below 2. A current ratio of 2 might not be adequate for manufacturers and merchandisers that carry high inventories and have lots of receivables. The current ratio for Delicious Desserts for 2018, as shown in <emphasis effect="bold"><link target-id="fs-idm385002016" document=""/></emphasis>, is 1.4. This means little without a basis for comparison. If the analyst found that the industry average for small bakeries was 2.4, Delicious Desserts would appear to have low liquidity.</para>
+<para id="fs-idm381262096">The <term>acid-test (quick) ratio</term> is like the current ratio except that it excludes inventory, which is the least-liquid current asset. The acid-test ratio is used to measure the firm’s ability to pay its current liabilities without selling inventory. The name <emphasis effect="italics">acid-test</emphasis> implies that this ratio is a crucial test of the firm’s liquidity. An acid-test ratio of at least 1 is preferred. But again, what is an acceptable value varies by industry. The acid-test ratio is a good measure of liquidity when inventory cannot easily be converted to cash (for instance, if it consists of very specialized goods with a limited market). If inventory is liquid, the current ratio is better. Delicious Desserts’ acid-test ratio for 2018 is 1.1. Because the bakery’s products are perishable, it does not carry large inventories. Thus, the values of its acid-test and current ratios are fairly close. At a manufacturing company, however, inventory typically makes up a large portion of current assets, so the acid-test ratio will be lower than the current ratio.</para>
+<table id="fs-idm385002016" summary="The table has 4 columns. From left to right the columns are as follows. Ratio column. Formula column. Calculation column. Result column. 4 ratios are shown. The first is liquidity ratios, which has a current ratio row, an acid test, quick, ratio row, and a net working capital ratio row. Current ratio row. Formula is total current assets divided by total current liabilities. Calculation is $83,200 divided by $60,150. Result is 1.4. The acid test ratio row reads as follows. Formula, total current assets minus inventory divided by total current liabilities. Calculation is $83,200 minus $15,000 divided by $60,150. Result is 1.1. Net working capital row reads as follows. Formula, total current assets minus total current liabilities. Calculation is $83,200 minus $60,150. Result is $23,050. Now on to profitability ratios, which has net profit margin row; return on equity row, and earnings per share row. Net profit margin row reads as follows. Formula, net profit divided by net sales. Calculation, $32,175 divided by $270,050. Result is 11.9 percent. Return on equity row reads as follows. Formula, net profit divided by total owners' equity. Calculation is $32,175 divided by $78,750. Result is 40.9 percent. Earnings per share row is as follows. Formula, net profit divided by number of shares of common stock outstanding. Calculation is $32,175 divided by $10,000. Result is $3.22. Now on to activity ratio. There is a single row here, titled inventory turnover; but this has multiple formulas and calculations, but only one result. First formula is cost of goods sold divided by average inventory. Second formula shown is cost of goods sold divided by start parentheses beginning inventory plus ending inventory, end parentheses divided by 2. First calculation, $112,500 divided by start parentheses $18,000 plus $15,000 end parenthesis divided by 2. Second calculation, $112,500 divided by $16,500. Result is 6.8 times. Now on to debt ratio. The only row is titled debt to equity ratio. Formula is total liabilities divided by owner's equity. Calculation is $70,150 divided by $78,750. Result is 89.1 percent.">
+<title/>
+<tgroup cols="4">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c4" align="center">Ratio Analysis for Delicious Desserts at Year-End 2018</entry>
+</row>
+<row>
+<entry>Ratio</entry>
+<entry>Formula</entry>
+<entry>Calculation</entry>
+<entry>Result</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="bold">Liquidity Ratios</emphasis></entry>
+</row>
+<row>
+<entry>Current ratio</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Total current assets</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Total current liabilities</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>$83,200</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>$</m:mi><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>150</m:mn>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>1.4</entry>
+</row>
+<row>
+<entry>Acid-test (quick) ratio</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Total current assets–inventory</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Total current liabilities</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>$83,200</m:mtext><m:mo>−</m:mo><m:mtext>$15,000</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>$</m:mi><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>150</m:mn>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>1.1</entry>
+</row>
+<row>
+<entry>Net working capital</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mtext>Total current assets</m:mtext><m:mo>–</m:mo><m:mtext>Total current liabilities</m:mtext>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mi>$</m:mi><m:mn>83</m:mn><m:mo>,</m:mo><m:mn>200</m:mn><m:mo>−</m:mo><m:mi>$</m:mi><m:mn>60</m:mn><m:mo>,</m:mo><m:mn>150</m:mn>
+  </m:mrow>
+</m:math></entry>
+<entry>$23,050</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c4"><term>Profitability Ratios</term></entry>
+</row>
+<row>
+<entry>Net profit margin</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mstyle scriptlevel="+1">
+    <m:mfrac>
+     <m:mrow>
+      <m:mtext>Net profit</m:mtext>
+     </m:mrow>
+     <m:mrow>
+      <m:mtext>Net sales</m:mtext>
+     </m:mrow>
+    </m:mfrac>
+   </m:mstyle>
+  </m:mrow>
+</m:math>
+</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mstyle scriptlevel="+1">
+    <m:mfrac>
+     <m:mrow>
+      <m:mtext>$32,175</m:mtext>
+     </m:mrow>
+     <m:mrow>
+      <m:mi>$</m:mi><m:mn>270</m:mn><m:mo>,</m:mo><m:mn>500</m:mn>
+     </m:mrow>
+    </m:mfrac>
+   </m:mstyle>
+  </m:mrow>
+</m:math></entry>
+<entry>11.9%</entry>
+</row>
+<row>
+<entry>Return on equity</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Net profit</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Total owners' equity</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>$32,175</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>$78,750</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>40.9%</entry>
+</row>
+<row>
+<entry>Earnings per share</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Net profit</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Number of shares of common stock outstanding</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>$32,175</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>10,000</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>$3.22</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="bold">Activity Ratio</emphasis></entry>
+</row>
+<row>
+<entry>Inventory turnover</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Cost of goods sold</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Average inventory</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry/>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Cost of goods sold</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mtext>Beginning inventory</m:mtext><m:mo>+</m:mo><m:mtext>Ending inventory</m:mtext>
+      </m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mi>$</m:mi><m:mn>112</m:mn><m:mo>,</m:mo><m:mn>500</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mrow><m:mo>(</m:mo>
+      <m:mrow>
+       <m:mi>$</m:mi><m:mn>18</m:mn><m:mo>,</m:mo><m:mn>000</m:mn><m:mo>+</m:mo><m:mi>$</m:mi><m:mn>15</m:mn><m:mo>,</m:mo><m:mn>000</m:mn>
+      </m:mrow>
+     <m:mo>)</m:mo></m:mrow><m:mo>/</m:mo><m:mn>2</m:mn>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry/>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mi>$</m:mi><m:mn>112</m:mn><m:mo>,</m:mo><m:mn>500</m:mn>
+    </m:mrow>
+    <m:mrow>
+     <m:mi>$</m:mi><m:mn>16</m:mn><m:mo>,</m:mo><m:mn>500</m:mn>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>6.8 times</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="bold">Debt Ratio</emphasis></entry>
+</row>
+<row>
+<entry>Debt-to-equity ratio</entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>Total liabilities</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>Owners' equity</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry><m:math display="inline">
+  <m:mrow>
+   <m:mfrac>
+    <m:mrow>
+     <m:mtext>$70,150</m:mtext>
+    </m:mrow>
+    <m:mrow>
+     <m:mtext>$78,750</m:mtext>
+    </m:mrow>
+   </m:mfrac>
+  </m:mrow>
+</m:math></entry>
+<entry>89.1%</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm387686016"><term>Net working capital</term>, though not really a ratio, is often used to measure a firm’s overall liquidity. It is calculated by subtracting total current liabilities from total current assets. Delicious Desserts’ net working capital for 2018 is $23,050. Comparisons of net working capital over time often help in assessing a firm’s liquidity.</para>
+</section>
+<section id="fs-idm348645696"><title>Profitability Ratios</title><para id="fs-idm387773264">To measure profitability, a firm’s profits can be related to its sales, equity, or stock value. <emphasis effect="bold">Profitability ratios</emphasis> measure how well the firm is using its resources to generate profit and how efficiently it is being managed. The main profitability ratios are net profit margin, return on equity, and earnings per share.</para>
+<para id="fs-idm348649488">The ratio of net profit to net sales is the <term>net profit margin</term>, also called <emphasis effect="italics">return on sales.</emphasis> It measures the percentage of each sales dollar remaining after all expenses, including taxes, have been deducted. Higher net profit margins are better than lower ones. The net profit margin is often used to measure the firm’s earning power. “Good” net profit margins differ quite a bit from industry to industry. A grocery store usually has a very low net profit margin, perhaps below 1 percent, whereas a jewelry store’s net profit margin would probably exceed 10 percent. Delicious Desserts’ net profit margin for 2018 is 11.9 percent. In other words, Delicious Desserts is earning 11.9 cents on each dollar of sales.</para>
+<figure id="fs-idm381994512" class="scaled-down">
+<media id="fs-idm387319040" alt="Photograph shows the brightly lit entrance to a Macy's department store.">
+<image mime-type="image/jpg" src="../../media/Mod_14_Photo_5.jpg"/></media>
+
+<caption>For giant retailers such as Macy’s, the high expense of operating a brick-and-mortar store counters the elevated markup on merchandise, resulting in slim profit margins. Because competition forces marketers to keep prices low, it is often a retailer’s cost-cutting strategy, not initial markup or sales volume, that determines whether a business will be profitable. <emphasis effect="italics">What expenses other than payroll and the cost of merchandise affect a retailer’s net profit margin?</emphasis> (Credit: Mike Mozart/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption></figure><para id="fs-idm328650704">The ratio of net profit to total owners’ equity is called <term>return on equity (ROE)</term>. It measures the return that owners receive on their investment in the firm, a major reason for investing in a company’s stock. Delicious Desserts has a 40.9 percent ROE for 2018. On the surface, a 40.9 percent ROE seems quite good. But the level of risk in the business and the ROE of other firms in the same industry must also be considered. The higher the risk, the greater the ROE investors look for. A firm’s ROE can also be compared to past values to see how the company is performing over time.</para>
+<para id="fs-idm339915600"><term>Earnings per share (EPS)</term> is the ratio of net profit to the number of shares of common stock outstanding. It measures the number of dollars earned by each share of stock. EPS values are closely watched by investors and are considered an important sign of success. EPS also indicates a firm’s ability to pay dividends. Note that EPS is the dollar amount earned by each share, not the actual amount given to stockholders in the form of dividends. Some earnings may be put back into the firm. Delicious Desserts’ EPS for 2018 is $3.22.</para>
+</section><section id="fs-idm383609040">
+<title>Activity Ratios</title>
+<para id="fs-idm386672944"><term>Activity ratios</term> measure how well a firm uses its assets. They reflect the speed with which resources are converted to cash or sales. A frequently used activity ratio is inventory turnover. The <term>inventory turnover ratio</term> measures the speed with which inventory moves through the firm and is turned into sales. It is calculated by dividing cost of goods sold by the average inventory. (Average inventory is estimated by adding the beginning and ending inventories for the year and dividing by 2.) Based on its 2018 financial data, Delicious Desserts’ inventory, on average, is turned into sales 6.8 times each year, or about once every 54 days (365 days ÷ 6.8). The acceptable turnover ratio depends on the line of business. A grocery store would have a high turnover ratio, maybe 20 times a year, whereas the turnover for a heavy equipment manufacturer might be only three times a year.</para>
+</section>
+<section id="fs-idm380144928">
+<title>Debt Ratios</title>
+<para id="fs-idm385454928"><term>Debt ratios</term> measure the degree and effect of the firm’s use of borrowed funds (debt) to finance its operations. These ratios are especially important to lenders and investors. They want to make sure the firm has a healthy mix of debt and equity. If the firm relies too much on debt, it may have trouble meeting interest payments and repaying loans. The most important debt ratio is the debt-to-equity ratio.</para>
+<para id="fs-idm371912352">The <term>debt-to-equity ratio</term> measures the relationship between the amount of debt financing (borrowing) and the amount of equity financing (owners’ funds). It is calculated by dividing total liabilities by owners’ equity. In general, the lower the ratio, the better. But it is important to assess the debt-to-equity ratio against both past values and industry averages. Delicious Desserts’ ratio for 2018 is 89.1 percent. The ratio indicates that the company has 89 cents of debt for every dollar the owners have provided. A ratio above 100 percent means the firm has more debt than equity. In such a case, the lenders are providing more financing than the owners.</para>
+<note id="fs-idm377822784" class="concept-check">
+<list id="fs-idm384887856" list-type="enumerated">
+<item>How can ratio analysis be used to interpret financial statements?</item>
+<item>Name the main liquidity and profitability ratios, and explain what they indicate.</item>
+<item>What kinds of information do activity ratios give? Why are debt ratios of concern to lenders and investors?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm378699824" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm367928544" list-type="enumerated" start-value="7">
+<item>How can ratio analysis be used to identify a firm’s financial strengths and weaknesses?</item>
+</list>
+<para id="fs-idm357249360">Ratio analysis is a way to use financial statements to gain insight into a firm’s operations, profitability, and overall financial condition. The four main types of ratios are liquidity ratios, profitability ratios, activity ratios, and debt ratios. Comparing a firm’s ratios over several years and comparing them to ratios of other firms in the same industry or to industry averages can indicate trends and highlight financial strengths and weaknesses.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm378631376"><term>acid-test (quick) ratio</term>
+<meaning id="fs-idm381978256">The ratio of total current assets excluding inventory to total current liabilities; used to measure a firm’s liquidity.</meaning>
+</definition>
+<definition id="fs-idm371212240"><term>activity ratios</term>
+<meaning id="fs-idm389484576">Ratios that measure how well a firm uses its assets.</meaning>
+</definition>
+<definition id="fs-idm384245536"><term>current ratio</term>
+<meaning id="fs-idm381246832">The ratio of total current assets to total current liabilities; used to measure a firm’s liquidity.</meaning>
+</definition>
+<definition id="fs-idm371922576"><term>debt ratios</term>
+<meaning id="fs-idm387973776">Ratios that measure the degree and effect of a firm’s use of borrowed funds (debt) to finance its operations.</meaning>
+</definition>
+<definition id="fs-idm387958176"><term>debt-to-equity ratio</term>
+<meaning id="fs-idm390426592">The ratio of total liabilities to owners’ equity; measures the relationship between the amount of debt financing (borrowing) and the amount of equity financing (owner’s funds).</meaning>
+</definition>
+<definition id="fs-idm374377248"><term>earnings per share (EPS)</term>
+<meaning id="fs-idm385308576">The ratio of net profit to the number of shares of common stock outstanding; measures the number of dollars earned by each share of stock.</meaning>
+</definition>
+<definition id="fs-idm328645072"><term>inventory turnover ratio</term>
+<meaning id="fs-idm385658512">The ratio of cost of goods sold to average inventory; measures the speed with which inventory moves through a firm and is turned into sales.</meaning>
+</definition>
+<definition id="fs-idm390705152"><term>liquidity ratios</term>
+<meaning id="fs-idm373404912">Ratios that measure a firm’s ability to pay its short-term debts as they come due.</meaning>
+</definition>
+<definition id="fs-idm367534096"><term>net profit margin</term>
+<meaning id="fs-idm384794576">The ratio of net profit to net sales; also called return on sales. It measures the percentage of each sales dollar remaining after all expenses, including taxes, have been deducted.</meaning>
+</definition>
+<definition id="fs-idm380308416"><term>net working capital</term>
+<meaning id="fs-idm375622560">The amount obtained by subtracting total current liabilities from total current assets; used to measure a firm’s liquidity.</meaning>
+</definition>
+<definition id="fs-idm371156784"><term>profitability ratios</term>
+<meaning id="fs-idm387407104">Ratios that measure how well a firm is using its resources to generate profit and how efficiently it is being managed.</meaning>
+</definition>
+<definition id="fs-idm389120560"><term>ratio analysis</term>
+<meaning id="fs-idm384850960">The calculation and interpretation of financial ratios using data taken from the firm’s financial statements in order to assess its condition and performance.</meaning>
+</definition>
+<definition id="fs-idm354466784"><term>return on equity (ROE)</term>
+<meaning id="fs-idm375801808">The ratio of net profit to total owners’ equity; measures the return that owners receive on their investment in the firm.</meaning>
+</definition>
+</glossary>
+
+</document>

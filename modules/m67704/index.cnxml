@@ -1,0 +1,122 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Performance Planning and Evaluation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67704</md:content-id>
+  <md:title>Performance Planning and Evaluation</md:title>
+  <md:abstract/>
+  <md:uuid>afa59bfb-b7ed-45bf-b66d-1186b9386825</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm174182688" list-type="enumerated" start-value="5">
+<item>How are performance appraisals used to evaluate employee performance?</item>
+</list>
+<para id="fs-idm180164720">Along with employee orientation and training, new employees learn about performance expectations through performance planning and evaluation. Managers provide employees with expectations about the job. These are communicated as job objectives, schedules, deadlines, and product and/or service quality requirements. As an employee performs job tasks, the supervisor periodically evaluates the employee’s efforts. A <term>performance appraisal</term> is a comparison of actual performance with expected performance to determine an employee’s contributions to the organization and to make decisions about training, compensation, promotion, and other job changes. The performance planning and appraisal process is shown in <emphasis effect="bold"><link target-id="fs-idm177071184" document=""/></emphasis> and described below.</para>
+<list id="fs-idm202132112" list-type="enumerated">
+<item>The manager establishes performance standards.</item>
+<item>The employee works to meet the standards and expectations.</item>
+<item>The employee’s supervisor evaluates the employee’s work in terms of quality and quantity of output and various characteristics such as job knowledge, initiative, relationships with others, and attendance and punctuality.</item>
+<item>Following the performance evaluation, reward (pay raise) and job change (promotion) decisions can be made. If work is unsatisfactory, the employee may be put on a performance improvement plan, which outlines the behaviors or performance that must be improved, the milestones and time periods to improve performance, and what will occur if performance is not improved.</item>
+<item>Rewards are positive feedback and provide reinforcement, or encouragement, for the employee to continue improving their performance.</item>
+</list>
+<para id="fs-idm174649120">It was once common practice for performance approvals to be conducted on an annual basis, but most companies have moved away from that standard. Instead, managers are encouraged to provide employees with continuous real-time feedback so that skill development and job performance can be improved more rapidly.</para>
+<para id="fs-idm172756784">Information for performance appraisals can be assembled using rating scales, supervisor logs of employee job incidents, and reports of sales and production statistics. Regardless of the source, performance information should be accurate and a record of the employee’s job behavior and efforts. <emphasis effect="bold"><link target-id="fs-idm183911712" document=""/></emphasis> illustrates a rating scale for one aspect of a college recruiter’s job. A rating of “9” is considered outstanding job behavior and performance; a rating of “1” is viewed as very poor to unacceptable.</para>
+<figure id="fs-idm177071184" class="scaled-down">
+<title>Performance Planning and Evaluation</title>
+<media id="fs-idm197713056" alt="The chart starts with a box labeled performance planning; setting standards and expectations. This flows into employee job task behavior. This flows into performance evaluation. This flows into rewards and job changes. From here, the process flows back to employee job task behavior, and is labeled performance feedback.">
+<image mime-type="image/png" src="../../media/IntroBus-C08-M08-007.png"/></media>
+</figure>
+<table id="fs-idm183911712" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Example of Behavior-Based Rating Scale for Performance Appraisal</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c3"><emphasis effect="bold">Position:</emphasis> College Recruiter</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c3"><emphasis effect="bold">Job Description:</emphasis> Visits campuses and conducts interviews of graduating seniors</entry>
+</row>
+<row>
+<entry>Explanation of Rating</entry>
+<entry>Performance Rating</entry>
+<entry>Explanation of Rating</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>This recruiter plans and organizes spring-semester college-recruiting schedule to minimize travel expenses and maximize the number of colleges visited and students interviewed.</entry>
+<entry>9</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>8</entry>
+<entry>Even with tight travel schedules between campuses, this recruiter completes each campus report before arrival at next campus.</entry>
+</row>
+<row>
+<entry/>
+<entry>7</entry>
+<entry>In making plans to visit a new campus, this recruiter might not have identified two or three faculty</entry>
+</row>
+<row>
+<entry/>
+<entry>6</entry>
+<entry>members for obtaining pre-visit information about degree programs.</entry>
+</row>
+<row>
+<entry>This recruiter occasionally does not check with college placement office to request student résumés two days before arrival.</entry>
+<entry>5</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>4</entry>
+<entry>Sometimes this recruiter’s notes are incomplete concerning a student’s response to interview questions.</entry>
+</row>
+<row>
+<entry/>
+<entry>3</entry>
+<entry>This recruiter is often several minutes late in starting interviews.</entry>
+</row>
+<row>
+<entry>This recruiter is frequently late in sending thank-you letters to students interviewed.</entry>
+<entry>2</entry>
+<entry/>
+</row>
+<row>
+<entry/>
+<entry>1</entry>
+<entry>This recruiter is always late completing campus-recruiting reports.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<note id="fs-idm155446096" class="concept-check">
+<list id="fs-idm200438080" list-type="enumerated">
+<item>What are the steps in the performance planning and appraisal process?</item>
+<item>What purposes do performance appraisals serve?</item>
+<item>Describe some sources of information for the performance appraisal.</item>
+</list>
+</note>
+<section id="fs-idm159641792" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm179788336" list-type="enumerated" start-value="5">
+<item>How are performance appraisals used to evaluate employee performance?</item>
+</list>
+<para id="fs-idm197806160">A performance appraisal compares an employee’s actual performance with the expected performance. Performance appraisals serve several purposes, but are typically used to determine an employee’s compensation, training needs, and advancement opportunities.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm187488848"><term>performance appraisal</term>
+<meaning id="fs-idm209276960">A comparison of actual performance with expected performance to assess an employee’s contributions to the organization.</meaning>
+</definition>
+</glossary>
+
+</document>

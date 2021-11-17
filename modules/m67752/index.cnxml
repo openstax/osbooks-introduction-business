@@ -1,0 +1,185 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Transforming Businesses through Information</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67752</md:content-id>
+  <md:title>Transforming Businesses through Information</md:title>
+  <md:abstract/>
+  <md:uuid>b40f8593-44e1-4e70-8a94-0b8dd63fcafc</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm250588144" list-type="enumerated">
+<item>How has information technology transformed business and managerial decision-making?</item>
+</list>
+<para id="fs-idm254563952"><term>Information technology (IT)</term> includes the equipment and techniques used to manage and process information. Information is at the heart of all organizations. Without information about the processes of and participants in an organization—including orders, products, inventory, scheduling, shipping, customers, suppliers, and employees—a business cannot operate.</para>
+<para id="fs-idm249713552">In less than 70 years, we have shifted from an industrial society to a knowledge-based economy driven by information. Businesses depend on information technology for everything from running daily operations to making strategic decisions. Computers are the tools of this information age, performing extremely complex operations as well as everyday jobs such as word processing and creating spreadsheets. The pace of change has been rapid since the personal computer became a fixture on most office desks. Individual units became part of small networks, followed by more sophisticated enterprise-wide networks. <emphasis effect="bold"><link target-id="fs-idm252546784" document=""/></emphasis> and <emphasis effect="bold"><link target-id="fs-idm255190736" document=""/></emphasis> summarize the types of computer equipment and software, respectively, most commonly used in business management information systems today.</para>
+<table id="fs-idm252546784" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Business Computing Equipment</entry>
+</row>
+<row>
+<entry>Computer Type</entry>
+<entry>Description</entry>
+<entry>Comments</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry><emphasis effect="bold">Tablets</emphasis></entry>
+<entry>Self-contained computers in which applications (apps) can reside. These devices can also be linked into a network over which other programs can be accessed.</entry>
+<entry>Increasing power, speed, and memory accessed via the cloud make these tablets the dominant computer for many business processes.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Desktop personal computers (PC)</emphasis></entry>
+<entry>Self-contained computers on which software can reside. These PCs can also be linked into a network over which other programs can be accessed.</entry>
+<entry>Increasing power, speed, memory, and storage make these commonly used for many business processes. Can handle text, audio, video, and complex graphics.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Laptop computers</emphasis></entry>
+<entry>Portable computers similar in power to desktop computers.</entry>
+<entry>Smaller size and weight make mobile computing easier for workers.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Minicomputers</emphasis></entry>
+<entry>Medium-sized computers with multiple processors, able to support from four to about 200 users at once.</entry>
+<entry>The distinction between the larger minicomputers and smaller mainframes is blurring.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Mainframe computers</emphasis></entry>
+<entry>Large machines about the size of a refrigerator; can simultaneously run many different programs and support hundreds or thousands of users.</entry>
+<entry>Extremely reliable and stable, these are used by companies and governments to process large amounts of data. They are more secure than PCs.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Servers</emphasis></entry>
+<entry>Greatest storage capacity and processing speeds.</entry>
+<entry>These are not subject to crashes and can be upgraded and repaired while operating.</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Supercomputers</emphasis></entry>
+<entry>Most powerful computers, now capable of operating at speeds of 280 trillion calculations per second.</entry>
+<entry>Companies can rent time to run projects from special supercomputer centers.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<table id="fs-idm255190736" summary="">
+<title/>
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<thead>
+<row>
+<entry>Application Type</entry>
+<entry>Description</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Word processing software</entry>
+<entry>Used to write, edit, and format documents such as letters and reports. Spelling and grammar checkers, mail merge, tables, and other tools simplify document preparation.</entry>
+</row>
+<row>
+<entry>Spreadsheet software</entry>
+<entry>Used for preparation and analysis of financial statements, sales forecasts, budgets, and similar numerical and statistical data. Once the mathematical formulas are keyed into the spreadsheet, the data can be changed and the solution will be recalculated instantaneously.</entry>
+</row>
+<row>
+<entry>Database management programs</entry>
+<entry>Serve as electronic filing cabinets for records such as customer lists, employee data, and inventory information. Can sort data based on various criteria to create different reports.</entry>
+</row>
+<row>
+<entry>Graphics and presentation programs</entry>
+<entry>Create tables, graphs, and slides for customer presentations and reports. Can add images, video, animation, and sound effects.</entry>
+</row>
+<row>
+<entry>Desktop publishing software</entry>
+<entry>Combines word processing, graphics, and page layout software to create documents. Allows companies to design and produce sales brochures, catalogs, advertisements, and newsletters in-house.</entry>
+</row>
+<row>
+<entry>Communications programs</entry>
+<entry>Translate data into a form for transmission and transfer it across a network to other computers. Used to send and retrieve data and files.</entry>
+</row>
+<row>
+<entry>Integrated software suites</entry>
+<entry>Combine several popular types of programs, such as word processing, spreadsheet, database, graphics presentation, and communications programs. Component programs are designed to work together.</entry>
+</row>
+<row>
+<entry>Groupware</entry>
+<entry>Facilitates collaborative efforts of workgroups so that several people in different locations can work on one project. Supports online meetings and project management (scheduling, resource allocation, document and e-mail distribution, etc.).</entry>
+</row>
+<row>
+<entry>Financial software</entry>
+<entry>Used to compile accounting and financial data and create financial statements and reports.</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm247832752">Although most workers spend their days at powerful desktop computers, other groups tackle massive computational problems at specialized supercomputer centers. Tasks that would take years on a PC can be completed in just hours on a supercomputer. With their ability to perform complex calculations quickly, supercomputers play a critical role in national security research, such as analysis of defense intelligence; scientific research, from biomedical experiments and drug development to simulations of earthquakes and star formations; demographic studies such as analyzing and predicting voting patterns; and weather and environmental studies. Businesses, too, put supercomputers to work by analyzing big data to gain insights into customer behavior, improving inventory and production management and for product design.<cite target-id="rfin-ch13_1"><note class="reference" display="inline" id="rfin-ch13_1">Jason Compton, “Meet the Supercomputer Driving a Business Boom in the UK,” <emphasis effect="italics">Forbes</emphasis>, https://www.forbes.com, Junes 14, 2016.</note></cite> The speed of these special machines has been rising steadily to meet increasing demands for greater computational capabilities, and the next goal is quadrillions of computations per second, or <emphasis effect="italics">petaflops.</emphasis> Achieving these incredible speeds is critical to future scientific, medical, and business discoveries. Many countries, among them the United States, China, France, and Japan, have made petascale computing a priority.<cite target-id="rfin-ch13_2"><note class="reference" display="inline" id="rfin-ch13_2">Patrick Thibodeau, “U.S. To Have 200-Petaflop Supercomputer by Early 2018,”<emphasis effect="italics">Computer World</emphasis>, https://www.computerworld.com, June 21, 2016.</note></cite></para>
+<para id="fs-idm251098480">In addition to a business’s own computers and internal networks, the internet makes it effortless to connect quickly to almost anyplace in the world. As Thomas <term class="no-emphasis">Friedman</term> points out in his book <emphasis effect="italics"><term class="no-emphasis">The World Is Flat</term>,</emphasis> “We are now connecting all of the knowledge centers on the planet together into a single global network, which . . . could usher in an amazing era of prosperity and innovation.”<cite target-id="rfin-ch13_3"><note class="reference" display="inline" id="rfin-ch13_3">Thomas Friedman, <emphasis effect="italics">The World Is Flat</emphasis> (New York: Farrar, Straus and Giroux, 2005) p. 8.</note></cite> The opportunities for collaboration on a global scale increase daily. A manager can share information with hundreds of thousands of people worldwide as easily as with a colleague on another floor of the same office building. The internet and the web have become indispensable business tools that facilitate communication within companies as well as with customers.</para>
+<para id="fs-idm250969152">The rise of electronic trading hubs is just one example of how technology is facilitating the global economy. Electronic trading hubs are not reserved for large companies of developed economies, however. Alibaba is piloting an e-hub called eWTP in Malaysia that will provide access to small businesses. As Jack <term class="no-emphasis">Ma</term>, <term class="no-emphasis">Alibaba</term> co-founder, said at eWTP’s launch, “There are a lot of free-trade zones for efficient trade facilitation, but only for big companies. There is no free-trade zone designed for small companies. I have been shouting everywhere, screaming, that every government should do it.”<cite target-id="rfin-ch13_4"><note class="reference" display="inline" id="rfin-ch13_4">Bhavan Jaipragas, “Free Trade for Minnows: How Alibaba Gave Malaysia’s e-Hub Hopes a Boost,” <emphasis effect="italics">This Week in Asia</emphasis>, http://www.scmp.com, November 20, 2017.</note></cite></para>
+<para id="fs-idm250613552">Many companies entrust an executive called the <term>chief information officer (CIO)</term> with the responsibility of managing all information resources. The importance of this responsibility is immense. In addition to the massive expansion of information gathered by today’s businesses, most of us are <term>knowledge workers</term> who develop or use knowledge. Knowledge workers contribute to and benefit from information they use to perform planning, acquiring, searching, analyzing, organizing, storing, programming, producing, distributing, marketing, or selling functions. We must know how to gather and use information from the many resources available to us.</para>
+<figure id="fs-idm256776352" class="scaled-down">
+<media id="fs-idm252203760" alt="A photograph shows Ben Fried on stage, with a banner behind him that reads, E 2, innovate.">
+<image mime-type="image/jpg" src="../../media/Photo_1_Ben Fried.jpg"/></media>
+
+<caption>In today’s high-tech world, CIOs must possess not only the technical smarts to implement global IT infrastructures, integrate communications systems with partners, and protect customer data from insidious hackers, but they must also have strong business acumen. Google’s acclaimed tech chief Ben Fried manages the technology necessary to deliver more than 9 billion searches daily, with an eye towards greater business efficiency, growth, and profits. <emphasis effect="italics">Why is it important for CIOs to possess both technological and business expertise?</emphasis> (Credit: Enterprise 2.0 Conference/ flickr/ Attribution 2.0 Generic (CC BY 2.0)</caption></figure><note id="fs-idm247776336" class="expanding-around-globe">
+<title>E-Hubs Integrate Global Commerce</title>
+<para id="fs-idm244280320">Thanks to the wonders of technological advancement, global electronic trading now goes far beyond the internet retailing and trading that we are all familiar with. Special websites known as trading hubs, or eMarketplaces, facilitate electronic commerce between businesses in specific industries such as automotive manufacturing, retailing, telecom provisioning, aerospace, financial products and services, and more. Virtually all Forex (Foreign Exchange) is done via trading hubs that provide an open market for trading of a variety of currencies. Because there are a large number of trades involving currencies, the price is discoverable and there is transparency in the market. By contrast, Bitcoin is mainly traded in smaller quantities, and there are often large discrepancies between prices for the cryptocurrency in different exchanges.</para>
+<para id="fs-idm249424576">The trading hub functions as a means of integrating the electronic collaboration of business services. Each hub provides standard formats for the electronic trading of documents used in a particular industry, as well as an array of services to sustain e-commerce between businesses in that industry. Services include demand forecasting, inventory management, partner directories, and transaction settlement services. And the payoff is significant—lowered costs, decreased inventory levels, and shorter time to market—resulting in bigger profits and enhanced competitiveness. For example, large-scale manufacturing procurement can amount to billions of dollars. Changing to “just-in-time purchasing” on the e-hub can save a considerable percentage of these costs.</para>
+<para id="fs-idm249002304">Electronic trading across a hub can range from the collaborative integration of individual business processes to auctions and exchanges of goods (electronic barter). Global content management is an essential factor in promoting electronic trading agreements on the hub. A globally consistent view of the “content” of the hub must be available to all. Each participating company handles its own content, and applications such as <emphasis effect="italics">content managers</emphasis> keep a continuously updated master catalog of the inventories of all members of the hub. The <emphasis effect="italics">transaction manager</emphasis> application automates trading arrangements between companies, allowing the hub to provide aggregation and settlement services.</para>
+<para id="fs-idm251201536">Ultimately, trading hubs for numerous industries could be linked together in a global e-commerce web—an inclusive “<emphasis effect="italics">hub of all hubs.</emphasis>” One creative thinker puts it this way: “The traditional linear, one step at a time, supply chain is dead. It will be replaced by parallel, asynchronous, real-time marketplace decision-making. Take manufacturing capacity as an example. Enterprises can bid their excess production capacity on the world e-commerce hub. Offers to buy capacity trigger requests from the seller for parts bids to suppliers who in turn put out requests to other suppliers, and this whole process will all converge in a matter of minutes.”</para>
+<para id="fs-idm247865376">Sources: “Asian Companies Count Losses—Hatch Ways to Cope with Weak Dollar,” <emphasis effect="italics">Reuters</emphasis>, https://www.reuters.com, January 24, 2018; Rob Verger, “This Is What Determines the Price of Bitcoin,” <emphasis effect="italics">Popular Science</emphasis>, https://www.popsci.com, January 22, 2018; Bhavan Jaipragas, “Alibaba’s Electronic Trading Hub to Help Small and Medium-sized Enterprises Goes Live in Malaysia,” <emphasis effect="italics">This Week in Asia</emphasis>, http://www.scmp.com, November 3, 2017.</para>
+<list id="fs-idm247654064" list-type="enumerated">
+<title>Critical Thinking Questions</title>
+<item>How do companies benefit from participating in an electronic trading hub?</item>
+<item>What impact does electronic trading have on the global economy?</item>
+</list>
+</note>
+<para id="fs-idm251112880">Because most jobs today depend on information—obtaining, using, creating, managing, and sharing it—this chapter begins with the role of information in decision-making and goes on to discuss computer networks and management information systems. The management of information technology—planning and protection—follows. Finally, we’ll look at the latest trends in information technology. Throughout the chapter, examples show how managers and their companies are using computers to make better decisions in a highly competitive world.</para>
+<section id="fs-idm251107072">
+<title>Data and Information Systems</title>
+<para id="fs-idm243918352">Information systems and the computers that support them are so much a part of our lives that we almost take them for granted. These <term>management information systems</term> methods and equipment that provide information about all aspects of a firm’s operations provide managers with the information they need to make decisions. They help managers properly categorize and identify ideas that result in substantial operational and cost benefits.</para>
+<para id="fs-idm254314208">Businesses collect a great deal of <emphasis effect="italics">data</emphasis>—raw, unorganized facts that can be moved and stored—in their daily operations. Only through well-designed IT systems and the power of computers can managers process these data into meaningful and useful <emphasis effect="italics">information</emphasis> and use it for specific purposes, such as making business decisions. One such form of business information is the <term>database</term>, an electronic filing system that collects and organizes data and information. Using software called a <emphasis effect="italics">database management system (DBMS),</emphasis> you can quickly and easily enter, store, organize, select, and retrieve data in a database. These data are then turned into information to run the business and to perform business analysis.</para>
+<para id="fs-idm247908416">Databases are at the core of business information systems. For example, a customer database containing name, address, payment method, products ordered, price, order history, and similar data provides information to many departments. Marketing can track new orders and determine what products are selling best; sales can identify high-volume customers or contact customers about new or related products; operations managers use order information to obtain inventory and schedule production of the ordered products; and finance uses sales data to prepare financial statements. Later in the chapter, we will see how companies use very large databases called data warehouses and data marts.</para>
+<para id="fs-idm251115680">Companies are discovering that they can’t operate well with a series of separate information systems geared to solving specific departmental problems. It takes a team effort to integrate the systems described and involves employees throughout the firm. Company-wide <emphasis effect="italics">enterprise resource planning (ERP)</emphasis> systems that bring together human resources, operations, and technology are becoming an integral part of business strategy. So is managing the collective knowledge contained in an organization, using data warehouses and other technology tools. Technology experts are learning more about the way the business operates, and business managers are learning to use information systems technology effectively to create new opportunities and reach their goals.</para>
+<note id="fs-idm247773440" class="concept-check">
+<list id="fs-idm247773056" list-type="enumerated">
+<item>What are management information systems, and what challenges face the CIO in developing the company’s MIS?</item>
+<item>Distinguish between data and information. How are they related? Why are data considered a valuable asset for a firm?</item>
+<item>How does systems integration benefit a company?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm252100384" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm244301632" list-type="enumerated">
+<item>How has information technology transformed business and managerial decision-making?</item>
+</list>
+<para id="fs-idm256570096">Businesses depend on information technology for everything from running daily operations to making strategic decisions. Companies must have management information systems that gather, analyze, and distribute information to the appropriate parties, including employees, suppliers, and customers. These systems are comprised of different types of computers that collect data and process it into usable information for decision-making. Managers tap into databases to access the information they need, whether for placing inventory orders, scheduling production, or preparing long-range forecasts. They can compare information about the company’s current status to its goals and standards. Company-wide enterprise resource planning systems that bring together human resources, operations, and technology are becoming an integral part of business strategy.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm253159808"><term>chief information officer (CIO)</term>
+<meaning id="fs-idm239462976">An executive with responsibility for managing all information resources in an organization.</meaning>
+</definition>
+<definition id="fs-idm240128944"><term>database</term>
+<meaning id="fs-idm239637184">An electronic filing system that collects and organizes data and information.</meaning>
+</definition>
+<definition id="fs-idm239636672"><term>information technology (IT)</term>
+<meaning id="fs-idm247693456">The equipment and techniques used to manage and process information.</meaning>
+</definition>
+<definition id="fs-idm247692944"><term>knowledge worker</term>
+<meaning id="fs-idm249572816">A worker who develops or uses knowledge, contributing to and benefiting from information used to perform planning, acquiring, searching, analyzing, organizing, storing, programming, producing, distributing, marketing, or selling functions.</meaning>
+</definition>
+<definition id="fs-idm251598800"><term>management information system (MIS)</term>
+<meaning id="fs-idm251598288">The methods and equipment that provide information about all aspects of a firm’s operations.</meaning>
+</definition>
+</glossary>
+
+</document>

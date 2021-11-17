@@ -1,0 +1,157 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Production Process: How Do We Make It?</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m67721</md:content-id>
+  <md:title>The Production Process: How Do We Make It?</md:title>
+  <md:abstract/>
+  <md:uuid>2ac56769-6a61-47ba-b442-7286727d006e</md:uuid>
+</metadata>
+
+<content>
+<list id="fs-idm197874176" list-type="enumerated" start-value="2">
+<item>What types of production processes do manufacturers and service firms use?</item>
+</list>
+<para id="fs-idm205249648">In production planning, the first decision involves which type of <term>production process</term>—the way a good or service is created—best fits with company goals and customer demand. An important consideration is the type of good or service being produced, because different goods may require different production processes. In general, there are three types of production: mass production, mass customization, and customization. In addition to production type, operations managers also classify production processes in two ways: (1) how inputs are converted into outputs and (2) the timing of the process.</para>
+<section id="fs-idm194208368">
+<title>One for All: Mass Production</title>
+<para id="fs-idm194906400"><term>Mass production</term>, manufacturing many identical goods at once, was a product of the Industrial Revolution. Henry <term class="no-emphasis">Ford</term>’s Model-T automobile is a good example of early mass production. Each car turned out by <term class="no-emphasis">Ford</term>’s factory was identical, right down to its color. If you wanted a car in any color except black, you were out of luck. Canned goods, over-the-counter drugs, and household appliances are other examples of goods that are mass-produced. The emphasis in mass production is on keeping manufacturing costs low by producing uniform products using repetitive and standardized processes. As products became more complicated to produce, mass production also became more complex. Automobile manufacturers, for example, must now incorporate more sophisticated electronics into their car designs. As a result, the number of assembly stations in most automobile manufacturing plants has increased.</para>
+</section>
+<section id="fs-idm215302400"><title>Just for You: Customizing Goods</title><para id="fs-idm194745760">In <term>mass customization</term>, goods are produced using mass-production techniques, but only up to a point. At that point, the product or service is custom-tailored to the needs or desires of individual customers. For example, <term class="no-emphasis">American Leather</term>, a Dallas-based furniture manufacturer, uses mass customization to produce couches and chairs to customer specifications within 30 days. The basic frames in the furniture are the same, but automated cutting machinery precuts the color and type of leather ordered by each customer. Using mass-production techniques, they are then added to each frame.</para>
+<para id="fs-idm178324592"><term>Customization</term> is the opposite of mass production. In customization, the firm produces goods or services one at a time according to the specific needs or wants of individual customers. Unlike mass customization, each product or service produced is unique. For example, a print shop may handle a variety of projects, including newsletters, brochures, stationery, and reports. Each print job varies in quantity, type of printing process, binding, color of ink, and type of paper. A manufacturing firm that produces goods in response to customer orders is called a <term>job shop</term>.</para>
+<figure id="fs-idm216973760" class="scaled-down">
+<title>Classification of Production Types</title>
+<media id="fs-idm173623824" alt="An illustration shows a can of cola, a house, and a barber shop pole.">
+<image mime-type="image/png" src="../../media/IntroBus-C10-M10-002.png"/></media>
+<caption>(Attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license.)</caption>
+</figure>
+<table id="fs-idm197797952" class="unnumbered" summary="">
+<label/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry>Mass Production</entry>
+<entry>Mass Customization</entry>
+<entry>Customization</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Highly uniform products or services<newline/>
+Many products made sequentially</entry>
+<entry>Uniform standardized production to a point, then unique features added to each product</entry>
+<entry>Each product or service produced according to individual customer requirements</entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Examples:</emphasis> Breakfast cereals, soft drinks, and computer keyboards</entry>
+<entry><emphasis effect="bold">Examples:</emphasis> Dell Computers, tract homes, and Taylor Made golf clubs</entry>
+<entry><emphasis effect="bold">Examples:</emphasis> Custom homes, legal services, and haircuts</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm180137120">Some types of service businesses also deliver customized services. Doctors, for instance, must consider the illnesses and circumstances of each individual patient before developing a customized treatment plan. Real estate agents may develop a customized service plan for each customer based on the type of house the person is selling or wants to buy. The differences between mass production, mass customization, and customization are summarized in <emphasis effect="bold"><link target-id="fs-idm216973760" document=""/></emphasis>.</para>
+</section><section id="fs-idm180804000">
+<title>Converting Inputs to Outputs</title>
+<para id="fs-idm172904288">As previously stated, production involves converting <emphasis effect="italics">inputs</emphasis> (natural resources, raw materials, human resources, capital) into <emphasis effect="italics">outputs</emphasis> (products or services). In a manufacturing company, the inputs, the production process, and the final outputs are usually obvious. <term class="no-emphasis">Harley-Davidson</term>, for instance, converts steel, rubber, paint, and other inputs into motorcycles. But the production process in a service company involves a less obvious conversion. For example, a hospital converts the knowledge and skills of its medical personnel, along with equipment and supplies from a variety of sources, into health care services for patients. <emphasis effect="bold"><link target-id="fs-idm198125728" document=""/></emphasis> provides examples of the inputs and outputs used by various other businesses.</para>
+<para id="fs-idm179651968">There are two basic processes for converting inputs into outputs. In <term>process manufacturing</term>, the basic inputs (natural resources, raw materials) are broken down into one or more outputs (products). For instance, bauxite (the input) is processed to extract aluminum (the output). The <term>assembly process</term> is just the opposite. The basic inputs, like natural resources, raw materials, or human resources, are either <emphasis effect="italics">combined</emphasis> to create the output or <emphasis effect="italics">transformed</emphasis> into the output. An airplane, for example, is created by assembling thousands of parts, which are its raw material inputs. Steel manufacturers use heat to transform iron and other materials into steel. In services, customers may play a role in the transformation process. For example, a tax preparation service combines the knowledge of the tax preparer with the client’s information about personal finances in order to complete the tax return.</para>
+</section>
+<section id="fs-idm200116736">
+<title>Production Timing</title>
+<para id="fs-idm201867728">A second consideration in choosing a production process is timing. A <term>continuous process</term> uses long production runs that may last days, weeks, or months without equipment shutdowns. This is best for high-volume, low-variety products with standardized parts, such as nails, glass, and paper. Some services also use a continuous process. Your local electric company is an example. Per-unit costs are low, and production is easy to schedule.</para>
+<table id="fs-idm198125728" summary="">
+<title/>
+<tgroup cols="3">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<thead>
+<row>
+<entry namest="c1" nameend="c3">Converting Inputs to Outputs</entry>
+</row>
+<row>
+<entry>Type of Organization</entry>
+<entry>Input</entry>
+<entry>Output</entry>
+</row>
+</thead>
+<tbody>
+<row>
+<entry>Airline</entry>
+<entry>Pilots, flight attendants, reservations system, ticketing agents, customers, airplanes, maintenance crews, ground facilities</entry>
+<entry>Movement of customers and freight</entry>
+</row>
+<row>
+<entry>Grocery store</entry>
+<entry>Merchandise, building, clerks, supervisors, store fixtures, shopping carts, customers</entry>
+<entry>Groceries for customers</entry>
+</row>
+<row>
+<entry>High school</entry>
+<entry>Faculty, curriculum, buildings, classrooms, library, auditorium, gymnasium, students, staff, supplies</entry>
+<entry>Graduates, public service</entry>
+</row>
+<row>
+<entry>Manufacturer</entry>
+<entry>Machinery, raw materials, plant, workers, managers</entry>
+<entry>Finished products for consumers and other firms</entry>
+</row>
+<row>
+<entry>Restaurant</entry>
+<entry>Food, cooking equipment, servers, chefs, dishwashers, host, patrons, furniture, fixtures</entry>
+<entry>Meals for patrons</entry>
+</row>
+</tbody>
+</tgroup>
+</table>
+<para id="fs-idm213531424">In an <term>intermittent process</term>, short production runs are used to make batches of different products. Machines are shut down to change them to make different products at different times. This process is best for low-volume, high-variety products such as those produced by mass customization or customization. Job shops are examples of firms using an intermittent process.</para>
+<para id="fs-idm196428144">Although some service companies use continuous processes, most service firms rely on intermittent processes. For instance, a restaurant preparing gourmet meals, a physician performing surgical procedures, and an advertising agency developing ad campaigns for business clients all customize their services to suit each customer. They use the intermittent process. Note that their “production runs” may be very short—one grilled salmon or one physical exam at a time.</para>
+<note id="fs-idm209403680" class="concept-check">
+<list id="fs-idm161259376" list-type="enumerated">
+<item>Describe the different types of production processes.</item>
+<item>How are inputs transformed into outputs in a variety of industries?</item>
+</list>
+</note>
+</section>
+<section id="fs-idm193879152" class="section-summary">
+<title>Summary of Learning Outcomes</title>
+<list id="fs-idm173703728" list-type="enumerated" start-value="2">
+<item>What types of production processes do manufacturers and service firms use?</item>
+</list>
+<para id="fs-idm197496992">Products are made using one of three types of production processes. In mass production, many identical goods are produced at once, keeping production costs low. Mass production, therefore, relies heavily on standardization, mechanization, and specialization. When mass customization is used, goods are produced using mass-production techniques up to a point, after which the product or service is custom-tailored to individual customers by adding special features. When a firm’s production process is built around customization, the firm makes many products one at a time according to the very specific needs or wants of individual customers.</para>
+</section>
+ </content>
+<glossary>
+<definition id="fs-idm160133728"><term>assembly process</term>
+<meaning id="fs-idm155305936">A production process in which the basic inputs are either combined to create the output or transformed into the output.</meaning>
+</definition>
+<definition id="fs-idm179849104"><term>continuous process</term>
+<meaning id="fs-idm164204816">A production process that uses long production runs lasting days, weeks, or months without equipment shutdowns; generally used for high-volume, low-variety products with standardized parts.</meaning>
+</definition>
+<definition id="fs-idm213763264"><term>customization</term>
+<meaning id="fs-idm193930112">The production of goods or services one at a time according to the specific needs or wants of individual customers.</meaning>
+</definition>
+<definition id="fs-idm156128192"><term>intermittent process</term>
+<meaning id="fs-idm195285584">A production process that uses short production runs to make batches of different products; generally used for low-volume, high-variety products.</meaning>
+</definition>
+<definition id="fs-idm174650016"><term>job shop</term>
+<meaning id="fs-idm213582240">A manufacturing firm that produces goods in response to customer orders.</meaning>
+</definition>
+<definition id="fs-idm179693920"><term>mass customization</term>
+<meaning id="fs-idm160120400">A manufacturing process in which goods are mass-produced up to a point and then custom-tailored to the needs or desires of individual customers.</meaning>
+</definition>
+<definition id="fs-idm157602720"><term>mass production</term>
+<meaning id="fs-idm197549168">The manufacture of many identical goods at once.</meaning>
+</definition>
+<definition id="fs-idm210910048"><term>process manufacturing</term>
+<meaning id="fs-idm815966064">A production process in which the basic input is broken down into one or more outputs (products).</meaning>
+</definition>
+<definition id="fs-idm183020256"><term>production process</term>
+<meaning id="fs-idm174613040">The way a good or service is created.</meaning>
+</definition>
+</glossary>
+
+</document>
