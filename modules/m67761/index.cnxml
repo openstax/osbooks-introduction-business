@@ -16,7 +16,7 @@
 <para id="fs-idm372862096">People sometimes confuse accounting with bookkeeping. Accounting is a much broader concept. <emphasis effect="italics">Bookkeeping,</emphasis> the system used to record a firm’s financial transactions, is a routine, clerical process. Accountants take bookkeepers’ transactions, classify and summarize the financial information, and then prepare and analyze financial reports. Accountants also develop and manage financial systems and help plan the firm’s financial strategy.</para>
 <section id="fs-idm376982272">
 <title>The Accounting Equation</title>
-<para id="fs-idm369134032">The accounting procedures used today are based on those developed in the late 15th century by an Italian monk, Brother Luca Pacioli. He defined the three main accounting elements as assets, liabilities, and owners’ equity. <term>Assets</term> are things of value owned by a firm. They may be <emphasis effect="italics">tangible,</emphasis> such as cash, equipment, and buildings, or <emphasis effect="italics">intangible,</emphasis> such as a patent or trademarked name. <term>Liabilities</term>—also called <emphasis effect="italics">debts</emphasis>—are what a firm owes to its creditors. <term>Owners’ equity</term> is the total amount of investment in the firm minus any liabilities. Another term for owners’ equity is <emphasis effect="italics">net worth.</emphasis></para>
+<para id="fs-idm369134032">The accounting procedures used today are based on those developed in the late 15th century by an Italian monk, Brother Luca Pacioli. He defined the three main accounting elements as assets, liabilities, and owners’ equity. <term id="term-00001">Assets</term> are things of value owned by a firm. They may be <emphasis effect="italics">tangible,</emphasis> such as cash, equipment, and buildings, or <emphasis effect="italics">intangible,</emphasis> such as a patent or trademarked name. <term id="term-00002">Liabilities</term>—also called <emphasis effect="italics">debts</emphasis>—are what a firm owes to its creditors. <term id="term-00003">Owners’ equity</term> is the total amount of investment in the firm minus any liabilities. Another term for owners’ equity is <emphasis effect="italics">net worth.</emphasis></para>
 <para id="fs-idm357890176">The relationship among these three elements is expressed in the accounting equation:</para>
 <equation id="fs-idm368455504" class="unnumbered"><label/><m:math display="block">
   <m:mrow>
@@ -78,7 +78,7 @@
   </m:mrow>
 </m:math></equation>
 <para id="fs-idm371539712">The liabilities are zero and owners’ equity (the amount of your investment in the business) is $10,000. The equation balances.</para>
-<para id="fs-idm373796352">To keep the accounting equation in balance, every transaction must be recorded as two entries. As each transaction is recorded, there is an equal and opposite event so that two accounts or records are changed. This method is called <term>double-entry bookkeeping</term>.</para>
+<para id="fs-idm373796352">To keep the accounting equation in balance, every transaction must be recorded as two entries. As each transaction is recorded, there is an equal and opposite event so that two accounts or records are changed. This method is called <term id="term-00004">double-entry bookkeeping</term>.</para>
 <para id="fs-idm381627712">Suppose that after starting your business with $10,000 cash, you borrow another $10,000 from the bank. The accounting equation will change as follows:</para>
 <equation id="fs-idm385298960" class="unnumbered"><label/>
 <m:math display="block">
