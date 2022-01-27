@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="introduction-business" collection-id="col25734" href="../collections/introduction-business.collection.xml" />
+    <book slug="introduction-business" collection-id="col25734" style="intro-business" href="../collections/introduction-business.collection.xml" />
 </container>
