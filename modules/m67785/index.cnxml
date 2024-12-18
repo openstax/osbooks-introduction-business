@@ -89,17 +89,10 @@
 <colspec colnum="5" colname="c5"/>
 <thead>
 <row>
-<entry namest="c1" nameend="c5">Fun Self-Test—Can You Play the Political Game?</entry>
+<entry namest="c1" nameend="c5">Fun Self-Test—Are You Good at Office Politics?</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c5">Rate your level of agreement with the statements below using the following scale:</entry>
-</row>
-<row>
-<entry>Strongly Agree</entry>
-<entry>Agree</entry>
-<entry>Neither Agree nor Disagree</entry>
-<entry>Disagree</entry>
-<entry>Strongly Disagree</entry>
+<entry namest="c1" nameend="c5">Answer “yes” or “no” to the following questions:</entry>
 </row>
 </thead>
 <tbody>
