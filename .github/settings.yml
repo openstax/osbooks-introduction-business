@@ -17,4 +17,6 @@ teams:
   - name: ce-all
     permission: triage
   - name: content-managers
+    permission: admin
+  - name: ww-openstax
     permission: push
