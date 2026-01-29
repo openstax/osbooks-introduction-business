@@ -34,27 +34,27 @@
 </thead>
 <tbody>
 <row>
- <entry align="center"><emphasis effect="bold">Planning</emphasis></entry>
- <entry align="center"><emphasis effect="bold">Leading</emphasis></entry>
- <entry align="center"><emphasis effect="bold">Organizing</emphasis></entry>
- <entry align="center"><emphasis effect="bold">Controlling</emphasis></entry>
+<entry align="center"><emphasis effect="bold">Planning</emphasis></entry>
+<entry align="center"><emphasis effect="bold">Leading</emphasis></entry>
+<entry align="center"><emphasis effect="bold">Organizing</emphasis></entry>
+<entry align="center"><emphasis effect="bold">Controlling</emphasis></entry>
 </row>  
 <row>
-<entry valign="top">
+<entry valign="top" align="left">
 <list id="fs-idm225551312" list-type="bulleted">
 <item>Set objectives and state mission</item>
 <item>Examine alternatives</item>
 <item>Determine needed resources</item>
 <item>Create strategies to reach objectives</item>
 </list></entry>
-<entry valign="top">
+<entry valign="top" align="left">
 <list id="fs-idm226451664" list-type="bulleted">
 <item>Lead and motivate employees to accomplish organizational goals</item>
 <item>Communicate with employees</item>
 <item>Resolve conflicts</item>
 <item>Manage change</item>
 </list></entry>
-<entry valign="top">
+<entry valign="top" align="left">
 <list id="fs-idm214501424" list-type="bulleted">
 <item>Design jobs and specify tasks</item>
 <item>Create organizational structure</item>
@@ -63,7 +63,7 @@
 <item>Set policies and procedures</item>
 <item>Allocate resources</item>
 </list></entry>
-<entry valign="top">
+<entry valign="top" align="left">
 <list id="fs-idm228796864" list-type="bulleted">
 <item>Measure performance</item>
 <item>Compare performance to standards</item>
