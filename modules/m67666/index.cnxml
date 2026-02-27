@@ -136,8 +136,8 @@ Apple (market cap: ~$4.0–4.2 trillion), and (3) Microsoft (market cap: ~$3.9 t
 </thead>
 <tbody>
 <row>
-<entry>Sole Proprietorship</entry>
-<entry><list list-type="bulleted" id="list-00001">
+<entry valign="top">Sole Proprietorship</entry>
+<entry valign="top"><list list-type="bulleted" id="list-00001">
 <item>Owner receives all profits.</item>
 <item>Low organizational costs.</item>
 <item>Income taxed as personal income of proprietor.</item>
@@ -145,7 +145,7 @@ Apple (market cap: ~$4.0–4.2 trillion), and (3) Microsoft (market cap: ~$3.9 t
 <item>Maintain control of trade secrets and intellectual property.</item>
 <item>Ease of dissolution.</item>
 </list></entry>
-<entry><list list-type="bulleted" id="list-00002">
+<entry valign="top"><list list-type="bulleted" id="list-00002">
 <item>Owner receives all losses.</item>
 <item>Owner has unlimited liability; total wealth can be taken to satisfy business debts.</item>
 <item>Limited fundraising ability can inhibit growth.</item>
@@ -155,14 +155,14 @@ Apple (market cap: ~$4.0–4.2 trillion), and (3) Microsoft (market cap: ~$3.9 t
 </list></entry>
 </row>
 <row>
-<entry>Partnership</entry>
-<entry><list list-type="bulleted" id="list-00003">
+<entry valign="top">Partnership</entry>
+<entry valign="top"><list list-type="bulleted" id="list-00003">
 <item>More expertise and managerial skills available.</item>
 <item>Relatively low organizational costs.</item>
 <item>Income taxed as personal income of partners.</item>
 <item>Fundraising ability is enhanced by more owners.</item>
 </list></entry>
-<entry><list list-type="bulleted" id="list-00004">
+<entry valign="top"><list list-type="bulleted" id="list-00004">
 <item>Owners have unlimited liability; may have to cover debts of other, less financially sound partners.</item>
 <item>Dissolves or must reorganize when partner dies.</item>
 <item>Difficult to liquidate or terminate.</item>
@@ -171,8 +171,8 @@ Apple (market cap: ~$4.0–4.2 trillion), and (3) Microsoft (market cap: ~$3.9 t
 </list></entry>
 </row>
 <row>
-<entry>Corporation</entry>
-<entry><list list-type="bulleted" id="list-00005">
+<entry valign="top">Corporation</entry>
+<entry valign="top"><list list-type="bulleted" id="list-00005">
 <item>Limited liability protects owners from losing more than they invest.</item>
 <item>Can achieve large size due to marketability of stock (ownership).</item>
 <item>Receives certain tax advantages.</item>
@@ -180,7 +180,7 @@ Apple (market cap: ~$4.0–4.2 trillion), and (3) Microsoft (market cap: ~$3.9 t
 <item>Can attract employees with specialized skills.</item>
 <item>Ownership is readily transferable.</item>
 <item>Long life of firm (not affected by death of owners).</item></list></entry>
-<entry><list list-type="bulleted" id="list-00006">
+<entry valign="top"><list list-type="bulleted" id="list-00006">
 <item>More expensive and complex to form.</item>
 <item>Subject to more government regulation.</item>
 <item>Financial reporting requirements make operations public.</item>

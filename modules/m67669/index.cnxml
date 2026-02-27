@@ -34,7 +34,7 @@
 </thead>
 <tbody>
 <row>
-<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Entrepreneur</emphasis> Franchise 500</emphasis></entry>
+<entry namest="c1" nameend="c4" align="center"><emphasis effect="bold"><emphasis effect="italics">Entrepreneur</emphasis> Franchise 500</emphasis></entry>
 </row>
 <row>
 <entry><emphasis effect="bold">Company</emphasis></entry>
@@ -103,7 +103,7 @@
 <entry>$73,123–$165,000</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Franchise Business Review</emphasis> Most Innovative and Awarded Franchises</emphasis></entry>
+<entry namest="c1" nameend="c4" align="center"><emphasis effect="bold"><emphasis effect="italics">Franchise Business Review</emphasis> Most Innovative and Awarded Franchises</emphasis></entry>
 </row>
 <row>
 <entry><emphasis effect="bold">Franchise</emphasis></entry>
@@ -172,7 +172,7 @@
 <entry>$175,000</entry>
 </row>
 <row>
-<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Franchise Gator</emphasis> Top 100 Franchises</emphasis></entry>
+<entry namest="c1" nameend="c4" align="center"><emphasis effect="bold"><emphasis effect="italics">Franchise Gator</emphasis> Top 100 Franchises</emphasis></entry>
 </row>
 <row>
 <entry><emphasis effect="bold">Franchise</emphasis></entry>
