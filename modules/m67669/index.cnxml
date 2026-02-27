@@ -22,155 +22,223 @@
 </figure>
 <table id="fs-idm358562256" summary="">
 <title/>
-<tgroup cols="2">
+<tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
+<colspec colnum="3" colname="c3"/>
+<colspec colnum="4" colname="c4"/>
 <thead>
 <row>
-<entry namest="c1" nameend="c2">Top 10 Franchises for 2017</entry>
+<entry namest="c1" nameend="c4">Top Franchises for 2026</entry>
 </row>
 </thead>
 <tbody>
 <row>
-<entry namest="c1" nameend="c2"><emphasis effect="italics">Entrepreneur</emphasis> Top 10</entry>
+<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Entrepreneur</emphasis> Franchise 500</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Company</emphasis></entry>
+<entry><emphasis effect="bold">Industry</emphasis></entry>
+<entry><emphasis effect="bold">Rank</emphasis></entry>
+<entry><emphasis effect="bold">Initial Investment</emphasis></entry>
+</row>
+<row>
+<entry>Taco Bell</entry>
+<entry>Food and Beverage</entry>
+<entry>1</entry>
+<entry>$611,000–$4,000,000</entry>
+</row>
+<row>
+<entry>Jersey Mike's Subs</entry>
+<entry>Food and Beverage</entry>
+<entry>2</entry>
+<entry>$204,000–$1,300,000</entry>
+</row>
+<row>
+<entry>Dunkin'</entry>
+<entry>Food and Beverage</entry>
+<entry>3</entry>
+<entry>$436,000–$1,800,000</entry>
+</row>
+<row>
+<entry>Popeyes Louisiana Kitchen</entry>
+<entry>Food and Beverage</entry>
+<entry>4</entry>
+<entry>$471,000–$3,900,000</entry>
+</row>
+<row>
+<entry>Ace Hardware</entry>
+<entry>Hardware Stores</entry>
+<entry>5</entry>
+<entry>$602,000–$2,000,000</entry>
+</row>
+<row>
+<entry>The UPS Store</entry>
+<entry>Shipping Services</entry>
+<entry>6</entry>
+<entry>$216,000–$609,000</entry>
+</row>
+<row>
+<entry>Culver's</entry>
+<entry>Food and Beverage</entry>
+<entry>7</entry>
+<entry>$2,600,000–$8,600,000</entry>
+</row>
+<row>
+<entry>Wendy's</entry>
+<entry>Food and Beverage</entry>
+<entry>8</entry>
+<entry>$310,000–$2,800,000</entry>
+</row>
+<row>
+<entry>Hampton by Hilton</entry>
+<entry>Hotel Chain</entry>
+<entry>9</entry>
+<entry>$15,200,000–$25,900,000</entry>
+</row>
+<row>
+<entry>Kumon</entry>
+<entry>Education</entry>
+<entry>10</entry>
+<entry>$73,123–$165,000</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Franchise Business Review</emphasis> Most Innovative and Awarded Franchises</emphasis></entry>
 </row>
 <row>
 <entry><emphasis effect="bold">Franchise</emphasis></entry>
-<entry><emphasis effect="bold">Initial investment</emphasis></entry>
+<entry><emphasis effect="bold">Industry</emphasis></entry>
+<entry><emphasis effect="bold">Initial Investment</emphasis></entry>
+<entry><emphasis effect="bold">Min. Cash Required</emphasis></entry>
 </row>
 <row>
-<entry>1. 7-Eleven Inc.</entry>
-<entry align="right">$37K to $1.6M</entry>
+<entry>Two Men and a Truck</entry>
+<entry>Home Services</entry>
+<entry>$107,100–$538,700</entry>
+<entry>$80,000</entry>
 </row>
 <row>
-<entry>2. McDonald’s</entry>
-<entry align="right">$1M to $2.2M</entry>
+<entry>Kona Ice</entry>
+<entry>Food &amp; Beverage</entry>
+<entry>$102,365–$189,300</entry>
+<entry>$20,000</entry>
 </row>
 <row>
-<entry>3. Dunkin’ Donuts</entry>
-<entry align="right">$229K to $1.7M</entry>
+<entry>NextHome</entry>
+<entry>Real Estate</entry>
+<entry>$16,250–$220,345</entry>
+<entry>$4,500</entry>
 </row>
 <row>
-<entry>4. The UPS Store</entry>
-<entry align="right">$178K to $403K</entry>
+<entry>360clean</entry>
+<entry>Cleaning &amp; Maintenance</entry>
+<entry>$21,800 – $35,600</entry>
+<entry>$15,000</entry>
 </row>
 <row>
-<entry>5. Jimmy John’s Gourmet Sandwiches</entry>
-<entry align="right">$330K to $558K</entry>
+<entry>Cruise Planners</entry>
+<entry>Travel &amp; Hospitality</entry>
+<entry>$2,295 – $23,465</entry>
+<entry>$1,945</entry>
 </row>
 <row>
-<entry>6. Dairy Queen</entry>
-<entry align="right">$1.1M to $1.9M</entry>
-</row>
-<row>
-<entry>7. Ace Hardware Corp.</entry>
-<entry align="right">$273K to $1.6M</entry>
-</row>
-<row>
-<entry>8. Wingstop Restaurant Inc.</entry>
-<entry align="right">$303K to $923K</entry>
-</row>
-<row>
-<entry>9. Sport Clips</entry>
-<entry align="right">$189K to $355K</entry>
-</row>
-<row>
-<entry>10. RE/MAX  LLC</entry>
-<entry align="right">$38K to $224K</entry>
-</row>
-<row>
-<entry namest="c1" nameend="c2"><emphasis effect="italics">Franchise Business Review</emphasis> Top 10</entry>
-</row>
-<row>
-<entry><emphasis effect="bold">Franchise Name/ Industry</emphasis></entry>
-<entry><emphasis effect="bold">Minimum Investment</emphasis></entry>
-</row>
-<row>
-<entry>Visiting Angels (Senior care)</entry>
-<entry align="right">$77,985</entry>
-</row>
-<row>
-<entry>MaidPro (Cleaning and maintenance)</entry>
-<entry align="right">$74,560</entry>
-</row>
-<row>
-<entry>Pinot’s Palette (Sports and recreation)</entry>
-<entry align="right">$63,400</entry>
-</row>
-<row>
-<entry>Christian Brothers Automotive (Automotive)</entry>
-<entry align="right">$146,693</entry>
-</row>
-<row>
-<entry>Home Instead Senior Care (Senior care)</entry>
-<entry align="right">$463,698</entry>
-</row>
-<row>
-<entry>Our Town America (Advertising and Sales)</entry>
-<entry align="right">$115,000</entry>
-</row>
-<row>
-<entry>FASTSIGNS (Business services)</entry>
-<entry align="right">$63,300</entry>
-</row>
-<row>
-<entry>Sandler Training (Business services)</entry>
-<entry align="right">$182,329</entry>
-</row>
-<row>
-<entry>Soccer Shots ((Child services)</entry>
-<entry align="right">$88,150</entry>
-</row>
-<row>
-<entry>Two Men and a Truck (Services)</entry>
-<entry align="right">$36,000</entry>
-</row>
-<row>
-<entry namest="c1" nameend="c2"><emphasis effect="italics">Franchise Gator</emphasis> Top 10</entry>
-</row>
-<row>
-<entry><emphasis effect="bold">Franchise Name</emphasis></entry>
-<entry><emphasis effect="bold">Minimum Cash Required</emphasis></entry>
-</row>
-<row>
-<entry>Fast Signs</entry>
-<entry align="right">$100,000</entry>
-</row>
-<row>
-<entry>Tropical Smoothie Cafe</entry>
-<entry align="right">$100,000</entry>
-</row>
-<row>
-<entry>Marco’s Pizza</entry>
-<entry align="right">$100,000</entry>
-</row>
-<row>
-<entry>Zoup</entry>
-<entry align="right">$100,000</entry>
-</row>
-<row>
-<entry>Mathnasium</entry>
-<entry align="right">$100,000</entry>
-</row>
-<row>
-<entry>Christian Brothers Automotive</entry>
-<entry align="right">$80,000</entry>
-</row>
-<row>
-<entry>Two Men and a Truck </entry>
-<entry align="right">$150,000</entry>
-</row>
-<row>
-<entry>Kiddie Academy</entry>
-<entry align="right">$200,000</entry>
+<entry>Dream Vacations-CruiseOne</entry>
+<entry>Travel &amp; Hospitality</entry>
+<entry>$2,590 – $21,870</entry>
+<entry>$3,500</entry>
 </row>
 <row>
 <entry>Wild Birds Unlimited</entry>
-<entry align="right">$40,000</entry>
+<entry>Retail</entry>
+<entry>$224,373–$379,957</entry>
+<entry>$40,000</entry>
 </row>
 <row>
-<entry>SportClips</entry>
-<entry align="right">$200,000</entry>
+<entry>Christian Brothers Automotive</entry>
+<entry>Automotive</entry>
+<entry>$520,250 – $645,400</entry>
+<entry>$85,000</entry>
+</row>
+<row>
+<entry>Payroll Vault</entry>
+<entry>Financial &amp; Tax</entry>
+<entry>$77,375–$111,885</entry>
+<entry>$100,000</entry>
+</row>
+<row>
+<entry>Tropical Smoothie Cafe</entry>
+<entry>Food &amp; Beverage</entry>
+<entry>$300,000–$720,500</entry>
+<entry>$175,000</entry>
+</row>
+<row>
+<entry namest="c1" nameend="c4"><emphasis effect="bold"><emphasis effect="italics">Franchise Gator</emphasis> Top 100 Franchises</emphasis></entry>
+</row>
+<row>
+<entry><emphasis effect="bold">Franchise</emphasis></entry>
+<entry><emphasis effect="bold">Industry</emphasis></entry>
+<entry><emphasis effect="bold">Rank</emphasis></entry>
+<entry><emphasis effect="bold">Min. Cash Required</emphasis></entry>
+</row>
+<row>
+<entry>Zoomin Groomin</entry>
+<entry>Pet</entry>
+<entry>1</entry>
+<entry>$90,000</entry>
+</row>
+<row>
+<entry>PostalAnnex+</entry>
+<entry>Business Services</entry>
+<entry>2</entry>
+<entry>$40,000</entry>
+</row>
+<row>
+<entry>Visiting Angels Living Assistance Services</entry>
+<entry>Healthcare &amp; Senior Care</entry>
+<entry>3</entry>
+<entry>$100,000</entry>
+</row>
+<row>
+<entry>Ledgers</entry>
+<entry>Business Services</entry>
+<entry>4</entry>
+<entry>$50,000</entry>
+</row>
+<row>
+<entry>Fibrenew</entry>
+<entry>Automotive</entry>
+<entry>5</entry>
+<entry>$25,000</entry>
+</row>
+<row>
+<entry>Salty Dawg Pet Salon + Bakery</entry>
+<entry>Pet</entry>
+<entry>6</entry>
+<entry>$100,000</entry>
+</row>
+<row>
+<entry>College Hunks Hauling Junk &amp; Moving</entry>
+<entry>Cleaning &amp; Maintenance</entry>
+<entry>7</entry>
+<entry>$70,000</entry>
+</row>
+<row>
+<entry>Kiddie Academy</entry>
+<entry>Children's</entry>
+<entry>8</entry>
+<entry>$250,000</entry>
+</row>
+<row>
+<entry>The Brass Tap - Craft Beer Bar</entry>
+<entry>Food</entry>
+<entry>9</entry>
+<entry>$250,000</entry>
+</row>
+<row>
+<entry>Maid My Home</entry>
+<entry>Cleaning &amp; Maintenance</entry>
+<entry>10</entry>
+<entry>$10,000</entry>
 </row>
 </tbody>
 </tgroup>
@@ -250,16 +318,17 @@
 <para id="fs-idm355404016">Two weeks later, Bryant called <term class="no-emphasis" id="term-00041">Subway</term>’s headquarters in Milford, Connecticut, and asked to be the company representative in China. He would recruit local entrepreneurs, train them to become franchisees, and act as a liaison between them and the company. He would receive half the initial $10,000 franchise fee and one-third of their 8 percent royalty fees. He could also open his own <term class="no-emphasis" id="term-00042">Subway</term> restaurants. Steve Forman, the founder of <term class="no-emphasis" id="term-00043">Jana Brands</term>, invested $1 million in return for a 75 percent stake.</para>
 <para id="fs-idm338737376">All foreign businesses in China had to be joint ventures with local partners, so Bryant used the Chinese business practice of relying on local relationships to find a manager for his first restaurant in Beijing. The project ran into problems immediately. Work on the store was delayed, and construction costs soared. It didn’t take Bryant long to realize that he and Forman had been swindled out of $200,000.</para>
 <para id="fs-idm356229472">When it finally opened, the restaurant was a hit among Americans in Beijing, but the locals weren’t sure what to make of it. They didn’t know how to order and didn’t like the idea of touching their food, so they held the sandwich vertically, peeled off the paper, and ate it like a banana. Most of all, the Chinese didn’t seem to want sandwiches.</para>
-<para id="fs-idm356470400">But Subway did little to alter its menu—something that still irks some Chinese franchisees. “<term class="no-emphasis" id="term-00044">Subway</term> should have at least one item tailored to Chinese tastes to show they respect local culture,” says Luo Bing Ling, a Beijing franchisee. Bryant thinks that with time, sandwiches will catch on in China. Maybe he’s right: Tuna salad, which he couldn’t give away at first, is now the number one seller. Today there are nearly 600 Subway stores in China, with China’s fast-food industry estimated at over $180 billion.</para>
+<para id="fs-idm356470400">But Subway did little to alter its menu—something that still irks some Chinese franchisees. Tailoring menu items to local tastes could show potential customers respect for local culture. Bryant, however, insisted that with time, sandwiches would catch on in China. Maybe he’s right: Tuna salad, which he couldn’t give away at first, is now the number one seller. Today there are around 670 
+Subway stores in China, with China’s fast-food industry estimated at over $180 billion.</para>
 <list id="fs-idm364700576" list-type="enumerated">
 <title>Critical Thinking Questions</title>
 <item>What are some of the main problems U.S. franchisors encounter when attempting to expand their business in a country such as China?</item>
 <item>What steps can franchisors take to ensure a smooth and successful launch of a new franchise business in a foreign country?</item>
 </list>
-<para id="fs-idm351352768">Sources: Subway, “Explore Our World,” http://www.subway.com, accessed April 2, 2018; “Sales Revenue in Fast Food Restaurants in China 2011–2018,” <emphasis effect="italics">Statista,</emphasis> https://www.statista.com, accessed April 2, 2018; Carlye Adler, “How China Eats a Sandwich,” <emphasis effect="italics">Fortune</emphasis>, March 21, 2005, p. F210-B; Julie Bennett, “Chinese Market Offers Franchise Challenges,” <emphasis effect="italics">Startup Journal–The Wall Street Journal Online</emphasis>, http://www.startupjournal.com.</para>
+<para id="fs-idm351352768">Sources: Subway, “Explore Our World,” http://www.subway.com, accessed April 2, 2018; Carlye Adler, “How China Eats a Sandwich,” <emphasis effect="italics">Fortune</emphasis>, March 21, 2005, p. F210-B; Julie Bennett, “Chinese Market Offers Franchise Challenges,” <emphasis effect="italics">Startup Journal–The Wall Street Journal Online</emphasis>, http://www.startupjournal.com; Wang Zhuoqiong, "Fast-Food Giants Deepen Market Reach in 2024," <emphasis effect="italics">China Daily</emphasis>, https://www.chinadailyasia.com, February 12, 2025; "Fast-Food Restaurants in China Industry Data and Analysis," <emphasis effect="italics">IBIS World</emphasis>, https://www.ibisworld.com, May 2024.</para>
 </note>
 <para id="fs-idm344958272">So what can you do to prepare when considering the purchase of a franchise? When evaluating franchise opportunities, professional guidance can prevent expensive mistakes, so interview advisers to find those that are right for you. Selecting an attorney with franchise experience will hasten the review of your franchise agreement. Getting to know your banker will speed up the loan process if you plan to finance your purchase with a bank loan, so stop by and introduce yourself. The proper real estate is a critical component for a successful retail franchise, so establish a relationship with a commercial real estate broker to begin scouting locations. Doing your homework can spell the difference between success and failure, and some early preparation can help lay the groundwork for the successful launch of your franchised business.</para>
-<para id="fs-idm365906128">If the franchise route to business ownership seems right for you, begin educating yourself on the franchise process by investigating various franchise opportunities. You should research a franchise company thoroughly before making any financial commitment. Once you’ve narrowed your choices, ask for the <emphasis effect="italics"><term class="no-emphasis" id="term-00045">Uniform Franchise Offering Circular</term> (UFOC)</emphasis> for that franchisor, and read it thoroughly. The <term class="no-emphasis" id="term-00046">Federal Trade Commission</term> (FTC) requires franchisors to prepare this document, which provides a wealth of information about the franchisor, including its history, operating style, management, past or pending litigation, the franchisee’s financial obligations, and any restrictions on the sale of units. Interviewing current and past franchisees is another essential step. And most franchise systems use computers, so if you are not computer literate, take a class in the basics.</para>
+<para id="fs-idm365906128">If the franchise route to business ownership seems right for you, begin educating yourself on the franchise process by investigating various franchise opportunities. You should research a franchise company thoroughly before making any financial commitment. Once you’ve narrowed your choices, ask for the <emphasis effect="italics">Franchise Disclosure Document</emphasis> (FDD) for that franchisor, and read it thoroughly. The <term class="no-emphasis" id="term-00046">Federal Trade Commission</term> (FTC) requires franchisors to prepare this document, which provides a wealth of information about the franchisor, including its history, operating style, management, past or pending litigation, the franchisee’s financial obligations, and any restrictions on the sale of units. Interviewing current and past franchisees is another essential step.</para>
 <para id="fs-idm323933760">Would-be franchisees should also check recent issues of small-business magazines such as <emphasis effect="italics"><term class="no-emphasis" id="term-00047">Entrepreneur</term>, <term class="no-emphasis" id="term-00048">Inc.</term>, <term class="no-emphasis" id="term-00049">Startups</term>,</emphasis> and <emphasis effect="italics"><term class="no-emphasis" id="term-00050">Success</term></emphasis> for industry trends, ideas on promising franchise opportunities, and advice on how to choose and run a franchise. The <term class="no-emphasis" id="term-00051">International Franchise Association</term> website at <emphasis effect="bold">http://www.franchise.org</emphasis> has links to <emphasis effect="italics"><term class="no-emphasis" id="term-00052">Franchising World</term></emphasis> and other useful sites. (For other franchise-related sites, see the “Working the Net” questions.)</para>
 <note id="fs-idm339114608" class="concept-check">
 <list id="fs-idm362709328" list-type="enumerated">
@@ -274,7 +343,7 @@
 <list id="fs-idm359111248" list-type="enumerated" start-value="5">
 <item>What makes franchising an appropriate form of organization for some types of business, and why does it continue to grow in importance?</item>
 </list>
-<para id="fs-idm366647872">Franchising is one of the fastest-growing forms of business ownership. It involves an agreement between a franchisor, the supplier of goods or services, and a franchisee, an individual or company that buys the right to sell the franchisor’s products in a specific area. With a franchise, the business owner does not have to start from scratch but buys a business concept with a proven product or service and operating methods. The franchisor provides use of a recognized brand-name product and operating concept, as well as management training and financial assistance. Franchises can be costly to start, and operating freedom is restricted because the franchisee must conform to the franchisor’s standard procedures. The growth in franchising is attributed to its ability to expand business operations quickly into new geographic areas with limited capital investment.</para>
+<para id="fs-idm366647872">Franchising offers entrepreneurs a "ready made" business opportunity. It involves an agreement between a franchisor, the supplier of goods or services, and a franchisee, an individual or company that buys the right to sell the franchisor’s products in a specific area. With a franchise, the business owner does not have to start from scratch but buys a business concept with a proven product or service and operating methods. The franchisor provides use of a recognized brand-name product and operating concept, as well as management training and financial assistance. Franchises can be costly to start, and operating freedom is restricted because the franchisee must conform to the franchisor’s standard procedures. The growth in franchising is attributed to its ability to expand business operations quickly into new geographic areas with limited capital investment.</para>
 </section>
  </content>
 <glossary>
