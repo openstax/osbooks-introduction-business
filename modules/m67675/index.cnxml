@@ -67,32 +67,32 @@
 </thead>
 <tbody>
 <row>
-<entry align="center">1–4</entry>
-<entry align="char" char=".">78.43%</entry>
+<entry align="left">1–4</entry>
+<entry align="left">78.43%</entry>
 </row>
 <row>
-<entry align="center">5–9</entry>
-<entry align="char" char=".">12.17%</entry>
+<entry align="left">5–9</entry>
+<entry align="left">12.17%</entry>
 </row>
 <row>
-<entry align="center">10–19</entry>
-<entry align="char" char=".">5.09%</entry>
+<entry align="left">10–19</entry>
+<entry align="left">5.09%</entry>
 </row>
 <row>
-<entry align="center">20–49</entry>
-<entry align="char" char=".">2.58%</entry>
+<entry align="left">20–49</entry>
+<entry align="left">2.58%</entry>
 </row>
 <row>
-<entry align="center">50–99</entry>
-<entry align="char" char=".">0.96%</entry>
+<entry align="left">50–99</entry>
+<entry align="left">0.96%</entry>
 </row>
 <row>
-<entry align="center">100–249</entry>
-<entry align="char" char=".">0.56%</entry>
+<entry align="left">100–249</entry>
+<entry align="left">0.56%</entry>
 </row>
 <row>
-<entry align="center">250–499</entry>
-<entry align="char" char=".">0.002%</entry>
+<entry align="left">250–499</entry>
+<entry align="left">0.002%</entry>
 </row>
 </tbody>
 </tgroup>
