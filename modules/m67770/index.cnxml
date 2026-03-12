@@ -30,8 +30,8 @@
 <para id="fs-idm254035072">A <term id="term-00002">commercial bank</term> is a profit-oriented financial institution that accepts deposits, makes business and consumer loans, invests in government and corporate securities, and provides other financial services. Commercial banks vary greatly in size, from the “money center” banks located in the nation’s financial centers to smaller regional and local community banks. As a result of consolidations, small banks are decreasing in number. There are approximately 3,900 commercial banks in the United States, accounting for $24.5 trillion in assets.<cite target-id="rfin-ch15_10" id="cite-00001"><note class="reference" display="inline" id="rfin-ch15_10">"Commercial Banking in the US - Number of Businesses (2002–2031)," <emphasis effect="italics">IBIS World</emphasis>, https://www.ibisworld.com, January 2026.</note></cite> Banks hold a variety of assets, as shown in the diagram in <emphasis effect="bold"><link target-id="fs-idm265246752" document=""/></emphasis>.</para>
 <para id="fs-idm265247520"><emphasis effect="bold"><link target-id="fs-idm271441184" document=""/></emphasis> lists the top 10 insured U.S.-chartered commercial banks, based on their consolidated assets.</para>
 <figure id="fs-idm265246752" class="scaled-down"><title>Assets of FDIC-Insured Commercial Banks, 2026</title>
-<media id="fs-idm265246112" alt="A pie chart is shown. The sections and percentages are as follows. Total cash, 11 percent. Federal funds, 3 percent. Other assets, 10 percent. Securities, 21 percent. Loans and leases, 55 percent.">
-<image mime-type="image/png" src="../../media/FPO_img.png"/></media>
+<media id="fs-idm265246112" alt="A pie chart is shown. The segments and percentages are as follows. 23.2 percent cash, federal funds, and other assets. 23 percent securities. 54.8 percent loans and leases.">
+<image mime-type="image/png" src="../../media/OSX_IntroBus2e_15_03_FDICPie.jpg"/></media>
 
 <caption>Source: "Assets and Liabilities of Commercial Banks in the United States - H.8," https://www.federalreserve.gov, accessed February 16, 2026.</caption></figure><para id="fs-idm265244656">Customers’ deposits are a commercial bank’s major source of funds, the main use for which is loans. The difference between the interest the bank earns on loans and the interest it pays on deposits, plus fees it earns from other financial services, pays the bank’s costs and provides a profit.</para>
 <para id="fs-idm267075472">Commercial banks are corporations owned and operated by individuals or other corporations. They can be either national or state banks, and to do business, they must get a <term id="term-00003">bank charter</term>—an operating license—from a state or federal government. <emphasis effect="italics">National banks</emphasis> are chartered by the Comptroller of the Currency, who is part of the U.S. Treasury Department. These banks must belong to the Federal Reserve System and must carry insurance on their deposits from the Federal Deposit Insurance Corporation. <emphasis effect="italics">State banks</emphasis> are chartered by the state in which they are based. Generally, state banks are smaller than national banks, are less closely regulated than national banks, and are not required to belong to the Federal Reserve System.</para>
@@ -50,7 +50,7 @@
 </row>
 <row>
 <entry>Bank</entry>
-<entry>Consolidated Assets</entry>
+<entry>Assets</entry>
 </row>
 </thead>
 <tbody>
@@ -100,7 +100,7 @@
 </table>
 <note id="fs-idm262419680" class="customer-satisfaction">
 <title>Rating Banks: Mobile and Branch Banking a Must</title>
-<para id="fs-idm276581024">Which banks provide the best customer satisfaction? J.D. Power (JDP), based in Costa Mesa, California, ranked 9 national banks in the United States based on responses from more than 11, 500 retail banking customers. In the research company's 2025 study, top performers received high ratings in trust; people; account offerings; allowing customers to bank how and when they want; saving time and money; digital channels; and resolving problems or complaints.</para>
+<para id="fs-idm276581024">Which banks provide the best customer satisfaction? J.D. Power (JDP), based in Costa Mesa, California, ranked nine national banks in the United States based on responses from more than 11,500 retail banking customers. In the research company's 2025 study, top performers received high ratings in trust, people, account offerings, allowing customers to bank how and when they want, saving time and money, digital channels, and resolving problems or complaints.</para>
 <para id="fs-idm270051104">While specific banks took the top spots in various areas of the country, the overall customer sentiment in the JDP survey was clear: consumers wants banks that offer a digital experience and, as needed, personal interaction at a local branch. Findings also suggest that banks that provide a user-friendly digital experience will have higher customer satisfaction. This is especially important as customers utilize the full range of banking services such as mortgages and wealth management products. Other key survey findings include:</para>
 <list id="fs-idm271137968" list-type="bulleted">
 <item>Overall satisfaction increased 8 points over 2024's score</item>
@@ -109,7 +109,7 @@
 <item>Customers indicated more confidence in banks supporting them during hard times</item>
 <item>Fraud, debit cards, and interest earned on deposits were noted as areas of improvement.</item>
 </list>
-<para id="fs-idm267628704">Assessing customer satisfaction is also the goal of the American Customer Satisfaction Index (ACSI), which granted Bank of America the top spot in the national bank category in its most recent survey, with a 1 percent decline in its overall score. Other top super regional banks in the ACSI study include Regions Bank, TD Bank, PNC Bank, and Capital One. Overall, national banks' customer service experience declined 1 percent from ACSI’s previous survey.</para>
+<para id="fs-idm267628704">Assessing customer satisfaction is also the goal of the American Customer Satisfaction Index (ACSI), which granted Bank of America the top spot in the national bank category in its 2025 survey, with a 1 percent decline in its overall score. Other top super regional banks in the ACSI study include Regions Bank, TD Bank, PNC Bank, and Capital One. Overall, national banks' customer service experience declined 1 percent from ACSI’s previous survey.</para>
 <para id="fs-idm269024608">Sources: "U.S. National Banking Satisfaction Study," https://www.jdpower.com, accessed February 16, 2026; Matthew Goldberg, "J.D. Power Study: Customer Satisfaction Increasing at Banks but More So at Credit Unions," <emphasis effect="italics">Bankrate</emphasis>, https://www.bankrate.com, April 28, 2025; "Keep Pace with Digitally Engaged Customers through Meaningful Metrics," https://theacsi.org, accessed February 16, 2026.</para>
 <list id="fs-idm267680608" list-type="enumerated">
 <title>Critical Thinking Questions</title>
@@ -175,7 +175,7 @@
 <media id="fs-idm276281184" alt="A photograph shows a large tree that has fallen over onto a parked car.">
 <image mime-type="image/jpg" src="../../media/Mod_15_Photo_15.3.jpg"/></media>
 
-<caption>Insurance companies, hurt by billions of dollars in unforeseen payouts during natural disasters such as Hurricane Milton in 2024, are rethinking their reliance on catastrophe-risk modelers, whose risk estimates failed to anticipate cataclysmic storms such as tornadoes, tropical storms, blizzards, and other related weather events. Cat-risk businesses forecast potential weather-related expenses for insurers through sophisticated computer modeling that analyzes historical meteorological data. <emphasis effect="italics">How do frequent natural disasters affect insurance companies and their policyholders?</emphasis> (Credit: Cayobo/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption></figure><table id="fs-idm276278224" summary="">
+<caption>Insurance companies, hurt by billions of dollars in unforeseen payouts during natural disasters such as Hurricane Milton in 2024, are rethinking their reliance on catastrophe-risk modelers, whose risk estimates failed to anticipate cataclysmic storms such as tornadoes, tropical storms, blizzards, and other weather-related events. Cat-risk businesses forecast potential weather-related expenses for insurers through sophisticated computer modeling that analyzes historical meteorological data. <emphasis effect="italics">How do frequent natural disasters affect insurance companies and their policyholders?</emphasis> (Credit: Cayobo/ Flickr/ Attribution 2.0 Generic (CC BY 2.0))</caption></figure><table id="fs-idm276278224" summary="">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
@@ -192,7 +192,7 @@
 <tbody>
 <row>
 <entry>Savings accounts</entry>
-<entry>Deposits gain interest and it is expected that the money will remain in the account for some time</entry>
+<entry>Deposits gain interest, and it is expected that the money will remain in the account for some time</entry>
 </row>
 <row>
 <entry>Checking accounts</entry>
