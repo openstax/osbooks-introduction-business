@@ -39,12 +39,12 @@
 <colspec colnum="4" colname="c4"/>
 <thead>
 <row>
-<entry namest="c1" nameend="c4">The World’s Top 11 Largest Multinational Corporations</entry>
+<entry namest="c1" nameend="c4">World’s Largest Corporations</entry>
 </row>
 <row>
-<entry>RANK</entry>
-<entry>RANK COMPANY</entry>
-<entry>Revenues ($M)</entry>
+<entry>Rank</entry>
+<entry>Company</entry>
+<entry>Revenue</entry>
 <entry>Home Country</entry>
 </row>
 </thead>
@@ -52,90 +52,84 @@
 <row>
 <entry>1</entry>
 <entry>Walmart</entry>
-<entry>$482,130</entry>
-<entry>United States</entry>
+<entry>$703.06 B</entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>2</entry>
-<entry>State Grid</entry>
-<entry>$329,601</entry>
-<entry>China</entry>
+<entry>Amazon</entry>
+<entry>$691.33 B </entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>3</entry>
-<entry>China National Petroleum</entry>
-<entry>$299,271</entry>
-<entry>China</entry>
+<entry>Saudi Aramco</entry>
+<entry>$461.56 B </entry>
+<entry>S. Arabia</entry>
 </row>
 <row>
 <entry>4</entry>
-<entry>Sinopec Group</entry>
-<entry>$294,344</entry>
+<entry>Sinopec</entry>
+<entry>$444.74 B </entry>
 <entry>China</entry>
 </row>
 <row>
 <entry>5</entry>
-<entry>Royal Dutch Shell</entry>
-<entry>$272,156</entry>
-<entry>Netherlands</entry>
+<entry>Apple</entry>
+<entry>$435.61 B </entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>6</entry>
-<entry>Exxon Mobil</entry>
-<entry>$246,204</entry>
-<entry>United States</entry>
+<entry>UnitedHealth</entry>
+<entry>$435.15 B </entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>7</entry>
-<entry>Volkswagen</entry>
-<entry>$236,600</entry>
-<entry>Germany</entry>
+<entry>McKesson</entry>
+<entry>$397.95 B </entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>8</entry>
-<entry>Toyota Motor</entry>
-<entry>$236,592</entry>
-<entry>Japan</entry>
+<entry>Berkshire Hathaway</entry>
+<entry>$397.14 B </entry>
+<entry>USA</entry>
 </row>
 <row>
 <entry>9</entry>
-<entry>Apple</entry>
-<entry>$233,715</entry>
-<entry>United States</entry>
+<entry>PetroChina</entry>
+<entry>$394.62 B </entry>
+<entry>China</entry>
 </row>
 <row>
 <entry>10</entry>
-<entry>BP</entry>
-<entry>$225,982</entry>
-<entry>United Kingdom</entry>
-</row>
-<row>
-<entry>11</entry>
-<entry>Berkshire Hathaway</entry>
-<entry>$210,821</entry>
-<entry>United States</entry>
+<entry>CVS Health</entry>
+<entry>$394.08 B </entry>
+<entry>USA</entry>
 </row>
 </tbody>
 </tgroup>
-<caption>Source: Adapted from “The World’s Largest Corporations,” <emphasis effect="italics">Fortune</emphasis> http://fortune.com/global500/, accessed June 30, 2017.</caption>
+<caption>Source: "Companies Ranked by Revenue," https://companiesmarketcap.com, accessed March 10, 2026.</caption>
 </table>
 <note id="fs-idm228250080" class="expanding-around-globe">
 <title>U.S. Brands Face Global Competition</title>
-<para id="fs-idm231301424">America is the cradle of the consumer goods brand. Here, a free-spending and marketing-saturated public nurtured Apple, Google, Coca-Cola, Microsoft, and countless others to maturity. Many of those brands grew up to conquer other societies, as well.</para>
-<para id="fs-idm221942784">But American brands’ domination in the global marketplace is eroding. From Samsung to Toyota to Mercedes Benz to SAP, companies in Europe and Asia are turning out top-quality goods and selling them as such rather than competing on price. “There are longer-term trends toward greater competition. The United States was the only global brand country [but] that’s no longer the case,” says Earl L. Taylor, chief marketing officer of the Marketing Science Institute. “Consumers prefer brands that they take to be of higher quality” regardless of the country of origin, he notes. “Increasingly, there will be other successful global brands in the U.S. [market].”</para>
-<para id="fs-idm228027712">Of the brands at the top of Interbrand’s recent list of the world’s most valuable, four of the top five still originate in the United States; the five most valuable are Apple, Google, Coca-Cola, and Microsoft, while Toyota (Japan) comes in at number five. American companies have lost the most ground in the middle tier of recognizable brand names, says George T. Haley, professor of marketing at the University of New Haven’s School of Business.</para>
-<para id="fs-idm232442560">One area from which U.S. brands are feeling the pressure is the Asia-Pacific region, which harbors the fastest-growing emerging markets today. In the appliance category, two Chinese companies, <term class="no-emphasis" id="term-00018">Haier</term> and <term class="no-emphasis" id="term-00019">Kelon</term>, are becoming top competitors for well-known U.S. brands <term class="no-emphasis" id="term-00020">Whirlpool</term> and <term class="no-emphasis" id="term-00021">Maytag</term>. In fact, <term class="no-emphasis" id="term-00022">Haier</term> bought GE’s appliance division in 2016. The Chinese branding trend is not confined only to hard goods. Sporting goods and sportswear brand Li Ning, well known within China, is building its international profile. While the Chinese basketball team wore <term class="no-emphasis" id="term-00023">Nike</term> uniforms at the Athens Olympic Games, the Spanish team wore <term class="no-emphasis" id="term-00024">Li Ning</term> apparel. The threat to U.S. brands is not confined to China, however. South Korean brands, such as <term class="no-emphasis" id="term-00025">Samsung</term>, <term class="no-emphasis" id="term-00026">LG</term>, and <term class="no-emphasis" id="term-00027">Hyundai</term>, have emerged on the global stage in specific categories, such as smartphones, household appliances, and automobiles.</para>
-<para id="fs-idm230542704">The animosity that many Europeans feel toward the United States is translated into a preference for European or even Asian brands at the expense of U.S. brands. Plus, experts say, European brands are simply becoming stronger and more consistent.</para>
-<para id="fs-idm228552448">Meanwhile, European brands are gaining momentum in the areas of white goods and consumer goods, putting the pressure on such well-known U.S. brands as <term class="no-emphasis" id="term-00028">Bissell</term> and <term class="no-emphasis" id="term-00029">Hoover</term>, experts say. For instance, <term class="no-emphasis" id="term-00030">Gaggenau</term> is a popular, high-end European kitchen appliance brand, along with <term class="no-emphasis" id="term-00031">Bosch</term> and <term class="no-emphasis" id="term-00032">Dyson</term>. Other European brands maintaining cachet—if not always the allure of luxury—include <term class="no-emphasis" id="term-00033">Absolut</term>, <term class="no-emphasis" id="term-00034">Virgin</term>, Mini (as in Cooper), <term class="no-emphasis" id="term-00035">Red Bull</term>, and <term class="no-emphasis" id="term-00036">Ikea</term>.</para>
+<para id="fs-idm231301424">America is the cradle of the consumer goods brand. Here, a free-spending and marketing-saturated public nurtured Costco, Dell, Ford, Microsoft, and countless others to maturity. Many of those brands grew to break into other markets, as well.</para>
+<para id="fs-idm221942784">Although still strong, American brands show some evidence of losing popularity in the global marketplace. Firms such as Samsung and Toyota—as well as product lines in the food, clothing, and personal wellness sectors—are gaining on American brands as they turn out top-quality goods and sell them at that price point rather than trying to compete on price alone. “There are longer-term trends toward greater competition. The United States was the only global brand country [but] that’s no longer the case,” says Earl L. Taylor, chief knowledge officer of the Marketing Science Institute. “Consumers prefer brands that they take to be of higher quality” regardless of the country of origin, he notes. “Increasingly, there will be other successful global brands in the U.S. [market].”</para>
+<para id="fs-idm228027712">Of the brands at the top of Interbrand’s recent list of the world’s most valuable, four of the top five still originate in the United States; the five most valuable are Apple, Google, Coca-Cola, Amazon, and Microsoft. American companies have lost ground because countries have been replacing U.S. products with those originating from other countries. This is in part due to lack of cultural adaptation of products and a loss of trust in American brands.</para>
+<para id="fs-idm232442560">One area from which U.S. brands are feeling the pressure is the Asia-Pacific region, which harbors the fastest-growing emerging markets today. In the appliance category, Chinese company Haier is a major player in the industry and is a top competitor for well-known U.S. brands like Whirlpool. In fact, <term class="no-emphasis" id="term-00022">Haier</term> bought GE’s appliance division in 2016. The Chinese branding trend is not confined only to hard goods. Sporting goods and sportswear brand Li Ning, well known within China, is building its international profile. While the Chinese basketball team wore <term class="no-emphasis" id="term-00023">Nike</term> uniforms at the Athens Olympic Games, the Spanish team wore <term class="no-emphasis" id="term-00024">Li Ning</term> apparel. The threat to U.S. brands is not confined to China, however. South Korean brands, such as <term class="no-emphasis" id="term-00025">Samsung</term>, <term class="no-emphasis" id="term-00026">LG</term>, and <term class="no-emphasis" id="term-00027">Hyundai</term>, have emerged on the global stage in specific categories, such as smartphones, household appliances, and automobiles.</para>
+<para id="fs-idm230542704">Perceptions toward the United States have translated into a preference for European or Asian brands. These competing brands have garnered some of the U.S. market share in many categories, and their products are viewed as higher quality than some U.S. brands.</para>
+<para id="fs-idm228552448">Meanwhile, European brands are gaining momentum in the areas of household and consumer goods, putting the pressure on such well-known U.S. brands as <term class="no-emphasis" id="term-00028">Bissell</term> and <term class="no-emphasis" id="term-00029">Hoover</term>, experts say. For instance, <term class="no-emphasis" id="term-00030">Gaggenau</term> is a popular, high-end European kitchen appliance brand, along with <term class="no-emphasis" id="term-00031">Bosch</term>, AEG, and Bertazzoni. Other European brands recognizable in the U.S. market as well include <term class="no-emphasis" id="term-00033">Absolut</term>, <term class="no-emphasis" id="term-00034">Virgin</term>, Mini (as in Cooper), <term class="no-emphasis" id="term-00035">Red Bull</term>, and <term class="no-emphasis" id="term-00036">Ikea</term>.</para>
 <list id="fs-idm230809920" list-type="enumerated">
 <title>Critical Thinking Questions</title>
-<item>What can U.S. multinational firms do to regain and maintain their leadership in global branding? Are there sectors and product areas where U.S. brands are gaining share?</item>
-<item>Do you think that the quality of American products and services is declining, or that the rest of the world is just getting better? Explain your answer.</item>
+<item>What can U.S. multinational firms do to grow their leadership in global branding? In which sectors and product areas are U.S. brands gaining share?</item>
+<item>Why do you think there is a perception that the quality of American products is declining? Give an example of a product as you explain your position.</item>
 </list>
-<para id="fs-idm228224336">Sources: “Interbrand: Best Global Brands 2016 Rankings,” http://interbrand.com, accessed June 30, 2017; Vasileios Davvetas and Adamantios Diamantopoulos (2016), “How Product Category Shapes Preferences toward Global and Local Brands: A Schema Theory Perspective,” <emphasis effect="italics">Journal of International Marketing</emphasis>, 24 (4), 61–81; Deborah Vence, “Not Taking Care of Business?” <emphasis effect="italics">Marketing News,</emphasis> March 15, 2005, pp. 19–20.</para>
+<para id="fs-idm228224336">Sources: “Interbrand: Best Global Brands 2016 Rankings,” http://interbrand.com, accessed June 30, 2017; Vasileios Davvetas and Adamantios Diamantopoulos (2016), “How Product Category Shapes Preferences toward Global and Local Brands: A Schema Theory Perspective,” <emphasis effect="italics">Journal of International Marketing</emphasis>, 24 (4), 61–81; Alaen, "Why American Brands are Being Replaced," <emphasis effect="italics">Substack</emphasis>, https://alaen.substack.com, August 8, 2025; "Ipsos’ Brand America Report Explains the International Impact of an American Brand Image," <emphasis effect="italics">Ipsos</emphasis>, https://www.ipsos.com, September 18, 2025; "Best Global Brands 2025," https://interbrand.com, accessed March 10, 2026; "Asia–Pacific: Why the World’s Fastest-Growing Region Is Becoming a Prime Destination for FDI," <emphasis effect="italics">AIM Congress</emphasis>, https://www.aimcongress.com, December 4, 2025.</para>
 </note>
-<para id="fs-idm230645296">Multinationals can also tap new technology from around the world. In the United States, <term class="no-emphasis" id="term-00037">Xerox</term> has introduced some 80 different office copiers that were designed and built by Fuji <term class="no-emphasis" id="term-00038">Xerox</term>, its joint venture with a Japanese company. Versions of the super-concentrated detergent that Procter &amp; Gamble first formulated in Japan in response to a rival’s product are now being sold under the <term class="no-emphasis" id="term-00039">Ariel</term> brand name in Europe and under the Cheer and Tide labels in the United States. Also, consider <term class="no-emphasis" id="term-00040">Otis Elevator</term>’s development of the Elevonic 411, an elevator that is programmed to send more cars to floors where demand is high. It was developed by six research centers in five countries. Otis’s group in Farmington, Connecticut, handled the systems integration, a Japanese group designed the special motor drives that make the elevators ride smoothly, a French group perfected the door systems, a German group handled the electronics, and a Spanish group took care of the small-geared components. Otis says the international effort saved more than $10 million in design costs and cut the process from four years to two.</para>
-<para id="fs-idm230896928">Finally, multinationals can often save a lot in labor costs, even in highly unionized countries. For example, when <term class="no-emphasis" id="term-00041">Xerox</term> started moving copier-rebuilding work to Mexico to take advantage of the lower wages, its union in Rochester, New York, objected because it saw that members’ jobs were at risk. Eventually, the union agreed to change work styles and to improve productivity to keep the jobs at home.</para>
+<para id="fs-idm230645296">Multinationals can also tap new technology from around the world. Volvo and the Chinese car brand Geely joined and created Lynk &amp; Co. Through the sharing of technologies across borders, their new venture launched a hybrid SUV called the 01 that became available in 2021 in Europe. Versions of the super-concentrated detergent that Procter &amp; Gamble first formulated in Japan in response to a rival’s product are now being sold under the Gain and Tide labels in the United States. Also, consider <term class="no-emphasis" id="term-00040">Otis Elevator</term>’s development of the Elevonic 411, an elevator that is programmed to send more cars to floors where demand is high. It was developed by six research centers in five countries. Otis’s group in Farmington, Connecticut, handled the systems integration, a Japanese group designed the special motor drives that make the elevators ride smoothly, a French group perfected the door systems, a German group handled the electronics, and a Spanish group took care of the small-geared components. The elevator was in production until the mid 2010s when it was replaced with newer technologies. Nonetheless, this example shows how multinational corporations can leverage joint ventures and partnerships to bring products to the marketplace more efficiently and more quickly while saving money.</para>
+<para id="fs-idm230896928">Multinationals can often save a good deal in costs, even labor costs. For example, when Volvo and Geely joined forces, they leveraged their purchasing power by jointly procuring items such as batteries and motors. They worked together to develop the autonomous driving technology used in their vehicles. Finally, they shared electrified components to manage costs and to facilitate quicker development times, all the while maintaining independent corporate structures.</para>
 <note id="fs-idm222829104" class="concept-check">
 <list id="fs-idm230911360" list-type="enumerated">
 <item>What is a multinational corporation?</item>
