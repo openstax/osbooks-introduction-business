@@ -19,4 +19,4 @@ teams:
   - name: content-managers
     permission: admin
   - name: ww-openstax
-    permission: push
+    permission: read
